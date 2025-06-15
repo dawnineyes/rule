@@ -6,6 +6,7 @@ if (body) {
     if (obj.data?.list) {
       for (let item of obj.data.list) {
         item.duration = 0;
+        item.enable_pre_download = false;
         item.begin_time = 4102329600;
         item.end_time = 4102329600;
       }
