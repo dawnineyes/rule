@@ -1,4 +1,0 @@
-||ccdace.hupu.com^$script
-||sdk.appadhoc.com^$script
-||hm.baidu.com^$script
-||v.trustutn.org^$image
