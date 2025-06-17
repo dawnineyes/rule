@@ -14,7 +14,7 @@ if (url.includes("functionId=start")) {
   if (obj?.showTimesDaily) {
     obj.showTimesDaily = 0;
   }
-} elseif (url.includes("functionId=basicConfig")) {
+} else if (url.includes("functionId=basicConfig")) {
   // 屏蔽 ttt_new_link_string
   if (obj?.data?.babel?.TTTNewLoad?.ttt_new_link_string) {
     obj.data.babel.TTTNewLoad.ttt_new_link_string = "";
