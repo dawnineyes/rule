@@ -14,6 +14,26 @@ if (url.includes("functionId=start")) {
   if (obj?.showTimesDaily) {
     obj.showTimesDaily = 0;
   }
+} elseif (url.includes("functionId=basicConfig")) {
+  // 屏蔽 ttt_new_link_string
+  if (obj?.data?.babel?.TTTNewLoad?.ttt_new_link_string) {
+    obj.data.babel.TTTNewLoad.ttt_new_link_string = "";
+  }
+
+  // 屏蔽 confirmH5 aids
+  if (obj?.data?.babel?.["TTT-confirmH5-aids"]) {
+    obj.data.babel["TTT-confirmH5-aids"]={"TTT-confirmH5-aids":""};
+  }
+
+  // 屏蔽 LiveWebView 激励广告
+  if (obj?.data?.mPaaSABTest?.LiveWebView?.activityOpen) {
+    obj.data.mPaaSABTest.LiveWebView.activityOpen = {};
+  }
+
+  // 屏蔽微信分享中推广排序
+  //if (obj?.data?.JDShare?.sortWeiXinContentParam) {
+  //  obj.data.JDShare.sortWeiXinContentParam.sort = "";
+  //}
 }
 
 $done({ body: JSON.stringify(obj) });
