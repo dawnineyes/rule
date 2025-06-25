@@ -7,7 +7,8 @@
         "sub.kwk7thgc.com"
       ],
       "domain_keyword": [],
-      "domain_regex": []
+      "domain_regex": [],
+      "process_name":["qbittorrent.exe"]
     }
   ]
 }
