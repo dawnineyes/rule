@@ -5,7 +5,8 @@
       "domain": [],
       "domain_suffix": [],
       "domain_keyword": ["69shu"],
-      "domain_regex": []
+      "domain_regex": [],
+      "process_name":[]
     }
   ]
 }
