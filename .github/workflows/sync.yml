@@ -8,7 +8,7 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
-	permissions:
+    permissions:
       contents: write # 授予对仓库内容的写入权限，用于git push
 
     steps:
