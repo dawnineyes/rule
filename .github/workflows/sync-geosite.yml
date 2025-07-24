@@ -21,15 +21,3 @@ jobs:
             echo "Downloading $file ..."
             curl -s "${BASE_URL}/${file}" | sed 's/^+//' > "Surge/geosite/${file}"
           done
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add Surge/geosite/*.list
-          if git diff-index --quiet HEAD --; then
-            echo "No changes to commit"
-          else
-            git commit -m "Sync geosite lists"
-            git push
-          fi
