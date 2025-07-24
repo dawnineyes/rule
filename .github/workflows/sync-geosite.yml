@@ -14,7 +14,6 @@ jobs:
 
       - name: Download geosite lists
         run: |
-          mkdir -p Surge/geosite
           BASE_URL="https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite"
           FILES=$(curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/geo/geosite?ref=meta | jq -r '.[] | select(.name|endswith(".list")) | .name')
           for file in $FILES; do
