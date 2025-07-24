@@ -24,7 +24,7 @@ jobs:
         # 使用curl获取文件列表，并过滤出.list文件
         # 注意：这里假设你可以直接访问该目录下的文件，或者你需要通过其他方式获取文件列表
         # 如果MetaCubeX/meta-rules-dat仓库设置了API访问限制，你可能需要调整此部分
-        curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/meta/geo/geosite \
+        curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/geo/geosite?ref=meta \
           | jq -r '.[] | select(.name | test("\\.list$")) | .download_url' \
           > .list_files.txt
 
