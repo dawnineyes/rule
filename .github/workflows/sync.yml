@@ -2,7 +2,7 @@ name: Sync GeoSite Lists
 
 on:
   schedule:
-    # 每天凌晨2点运行，可以根据需要调整时间
+    # 每天凌晨2点运行，可以根据需要调整时间 (UTC时间)
     - cron: '0 2 * * *'
   workflow_dispatch:
     # 允许手动触发工作流
@@ -11,7 +11,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # 授予对仓库内容的写入权限，用于git push
 
     steps:
     - name: Checkout repository
@@ -23,20 +23,78 @@ jobs:
     - name: Get list of .list files
       id: get_files
       run: |
-        # 使用curl获取文件列表，并过滤出.list文件
-        # 注意：这里假设你可以直接访问该目录下的文件，或者你需要通过其他方式获取文件列表
-        # 如果MetaCubeX/meta-rules-dat仓库设置了API访问限制，你可能需要调整此部分
-        curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/geo/geosite?ref=meta \
-          | jq -r '.[] | select(.name | test("\\.list$")) | .download_url' \
+        REPO_OWNER="MetaCubeX"
+        REPO_NAME="meta-rules-dat"
+        TARGET_BRANCH="meta"
+        GEO_SITE_PATH="geo/geosite/" # 注意以斜杠结尾
+
+        API_URL="https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/git/trees/${TARGET_BRANCH}?recursive=1"
+        RAW_BASE_URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${TARGET_BRANCH}/"
+
+        echo "Attempting to fetch full Git tree from: ${API_URL}"
+        
+        curl -fsSL "${API_URL}" > tree_response.json
+        
+        echo "Raw Git Tree API response (truncated to 5000 chars if too long):"
+        head -c 5000 tree_response.json
+        echo ""
+        
+        if [ ! -s tree_response.json ] || ! jq -e . < tree_response.json > /dev/null; then
+          echo "Error: tree_response.json is empty or not valid JSON. Exiting."
+          exit 1
+        fi
+
+        cat tree_response.json \
+          | jq -r --arg geo_path "$GEO_SITE_PATH" --arg raw_base "$RAW_BASE_URL" \
+            '.tree[] | select(.type == "blob" and (.path | startswith($geo_path)) and (.path | test("\\.list$"))) | $raw_base + .path' \
           > .list_files.txt
+        
+        echo "Contents of .list_files.txt:"
+        cat .list_files.txt
+        LINE_COUNT=$(wc -l < .list_files.txt)
+        echo "Total .list files found: $LINE_COUNT"
+        
+        if [ "$LINE_COUNT" -eq 0 ]; then
+          echo "Warning: No .list files found in the specified path (${GEO_SITE_PATH}). Check API response or jq filter/path."
+          # 根据您的需求，如果找不到文件是否要强制失败
+          # exit 1 
+        fi
 
     - name: Download and process .list files
       run: |
-        while IFS= read -r url; do
-          filename=$(basename "$url")
-          echo "Downloading and processing $filename..."
-          curl -s "$url" | sed 's/^+//g' > "Surge/geosite/$filename"
-        done < .list_files.txt
+        PROCESSED_COUNT=0
+        FAILED_DOWNLOADS=""
+        TOTAL_FILES_IN_LIST=$(wc -l < .list_files.txt)
+
+        if [ "$TOTAL_FILES_IN_LIST" -eq 0 ]; then
+          echo "No files to download as .list_files.txt is empty."
+        else
+          while IFS= read -r url; do
+            filename=$(basename "$url")
+            target_path="Surge/geosite/$filename"
+            echo "Attempting to download and process $filename from $url..."
+
+            if curl -fsSL "$url" | sed 's/^+//g' > "$target_path"; then
+              echo "  Successfully processed $filename."
+              PROCESSED_COUNT=$((PROCESSED_COUNT + 1))
+            else
+              echo "  Error: Failed to download or process $filename."
+              FAILED_DOWNLOADS+="$filename (URL: $url)\n"
+            fi
+          done < .list_files.txt
+        fi
+
+        echo "--- Download Summary ---"
+        echo "Total files requested: $TOTAL_FILES_IN_LIST"
+        echo "Successfully processed: $PROCESSED_COUNT"
+        if [ -n "$FAILED_DOWNLOADS" ]; then
+          echo "--- Failed Downloads ---"
+          echo -e "$FAILED_DOWNLOADS"
+          echo "Some files failed to download. Please check the logs above for specific errors."
+          exit 1 # 如果有任何文件下载失败，强制整个工作流失败
+        else
+          echo "All requested files processed successfully."
+        fi
 
     - name: Commit and push changes
       env:
