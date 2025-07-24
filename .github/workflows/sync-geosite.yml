@@ -3,7 +3,7 @@ name: Sync Geosite Lists
 on:
   schedule:
     - cron: '0 3 * * *'   # 每天 03:00 UTC 运行
-  workflow_dispatch:      # 手动触发
+  workflow_dispatch:      # 支持手动触发
 
 jobs:
   sync:
@@ -27,5 +27,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add Surge/geosite/*.list
-          git commit -m "Sync geosite lists" || echo "No changes to commit"
-          git push
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync geosite lists"
+            git push
+          fi
