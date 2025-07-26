@@ -43,6 +43,6 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         shopt -s globstar
-        git add Surge/geoip/**/*.list
+        git add Surge/geosite/**/*.list
         git diff --cached --quiet || git commit -m "chore(geosite): Sync and process geosite .list files"
         git push
