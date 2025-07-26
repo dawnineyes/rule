@@ -42,6 +42,7 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add Surge/geosite
-        git diff-index --quiet HEAD || git commit -m "chore(geosite): Sync and process geosite data"
+        shopt -s globstar
+        git add Surge/geoip/**/*.list
+        git diff --cached --quiet || git commit -m "chore(geosite): Sync and process geosite .list files"
         git push
