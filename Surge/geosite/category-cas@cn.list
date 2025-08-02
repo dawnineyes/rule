@@ -1,3 +1,13 @@
+.oemssl.cn
+.oemssl.cn.cdn.cloudflare.net
+.sectigochina.com
+.sectigochina.com.cdn.cloudflare.net
+.trust-provider.cn
+.sslcom.cn
+.yahoo.cn
+.yahoo.com.cn
+www.entrust.cn
+www.microsoft.com
 certs-lb.apple.com.akadns.net
 certs.apple.com
 crl-lb.apple.com.akadns.net
@@ -23,13 +33,3 @@ crls.pki.goog
 ocsp.pki.goog
 .dcocsp.cn
 .digicert.cn
-www.microsoft.com
-.sslcom.cn
-.yahoo.cn
-.yahoo.com.cn
-.oemssl.cn
-.oemssl.cn.cdn.cloudflare.net
-.sectigochina.com
-.sectigochina.com.cdn.cloudflare.net
-.trust-provider.cn
-www.entrust.cn
