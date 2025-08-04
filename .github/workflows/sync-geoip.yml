@@ -29,10 +29,8 @@ jobs:
         # 简单判断是否包含 . 或 : 来区分 IPv4 和 IPv6
         find Surge/geoip -name "*.list" -print0 | while IFS= read -r -d $'\0' file; do
           echo "Processing file: $file"
-
-          gsub(/^IP-CIDR,|^IP-CIDR6,/, "", $0)
-          
           awk '!/^(\s*#|\s*\/\/)/ {
+            gsub(/^IP-CIDR,|^IP-CIDR6,/, "", $0)
             if ($0 ~ /\./) {
               print "IP-CIDR," $0
             } else if ($0 ~ /:/) {
