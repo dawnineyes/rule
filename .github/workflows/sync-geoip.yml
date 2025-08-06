@@ -24,6 +24,10 @@ jobs:
         mkdir -p Surge/geoip # 确保目标文件夹存在
         cp -r meta-rules-dat-temp/geo/geoip/. Surge/geoip/
 
+    - name: Download Telegram CIDR list
+      run: |
+        curl -sL https://core.telegram.org/resources/cidr.txt -o Surge/geoip/telegram.list
+
     - name: Process .list files with IP prefixes
       run: |
         # 简单判断是否包含 . 或 : 来区分 IPv4 和 IPv6
