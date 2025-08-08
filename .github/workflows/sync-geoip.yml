@@ -27,6 +27,8 @@ jobs:
     - name: Download Telegram CIDR list
       run: |
         curl -sL https://core.telegram.org/resources/cidr.txt -o Surge/geoip/telegram.list
+        cp Surge/geoip/telegram.list Surge/geoip/classical/telegram.list
+
 
     - name: Process .list files with IP prefixes
       run: |
