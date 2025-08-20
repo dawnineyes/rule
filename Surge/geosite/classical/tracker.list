@@ -2,11 +2,7 @@ DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
-DOMAIN,2.tracker.eu.org
-DOMAIN,3.tracker.eu.org
-DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,admin.52ywp.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -20,9 +16,9 @@ DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,discord.heihachi.pw
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
+DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,finbytes.org
-DOMAIN,glotorrents.pw
 DOMAIN,hificode.in
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
@@ -33,6 +29,7 @@ DOMAIN,isk.richardsw.club
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
+DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
@@ -54,12 +51,16 @@ DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
+DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.jaekr.sh
+DOMAIN,t.overflow.biz
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
@@ -69,11 +70,9 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
@@ -116,7 +115,6 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
