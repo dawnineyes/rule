@@ -1,6 +1,4 @@
 DOMAIN-SUFFIX,canonical.com
-DOMAIN-SUFFIX,snapcraft.io
-DOMAIN-SUFFIX,snapstore.io
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ubuntuforums.org
@@ -10,3 +8,5 @@ DOMAIN-SUFFIX,launchpadcontent.net
 DOMAIN-SUFFIX,launchpadlibrarian.com
 DOMAIN-SUFFIX,launchpadlibrarian.net
 DOMAIN-SUFFIX,launchpadlibrarian.org
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapstore.io
