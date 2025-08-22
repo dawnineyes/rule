@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
 DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.team
-DOMAIN-SUFFIX,vkgo.app
+DOMAIN-SUFFIX,vkcache.com
 DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,vkmessenger.com
@@ -63,11 +63,11 @@ DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
-DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex.com.ge
