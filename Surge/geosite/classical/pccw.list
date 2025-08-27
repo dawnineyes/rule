@@ -26,4 +26,4 @@ DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,theclub.com.hk
 DOMAIN-SUFFIX,1010.com.hk
 DOMAIN-SUFFIX,now.com.hk
-DOMAIN-REGEX,^ewcdn[0-9]{2}\.nowe\.com$
+DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$

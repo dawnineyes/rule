@@ -4,4 +4,4 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.com
-DOMAIN-REGEX,^ewcdn[0-9]{2}\.nowe\.com$
+DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
