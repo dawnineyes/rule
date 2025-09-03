@@ -149,7 +149,6 @@ xn--flw351e.com
 .gvt1-cn.com
 .gvt2-cn.com
 redirector.c.play.google.com
-firebase-settings.crashlytics.com
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -158,3 +157,4 @@ crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
 .ggpht.cn
+firebase-settings.crashlytics.com
