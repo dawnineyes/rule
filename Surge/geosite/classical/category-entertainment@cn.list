@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -14,7 +16,7 @@ DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -55,12 +57,10 @@ DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
 DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,ggpht.cn
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
