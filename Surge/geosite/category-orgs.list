@@ -22,10 +22,10 @@ csis-prod.s3.amazonaws.com
 .who.int
 .wi-fi.org
 .wto.org
-.emojipedia.org
-.worldemojiawards.com
-.worldemojiday.com
-.xn--yt8h.la
+.f-dro1d.org
+.f-droid.com
+.f-droid.org
+.fdroid.org
 .ieee.org
 .ieee.tv
 .tryengineering.org
@@ -80,9 +80,6 @@ csis-prod.s3.amazonaws.com
 .signalprocessingsociety.org
 .technologyandsociety.org
 .vtsociety.org
-.ppy.sh
-.rolfoundation.org
-.rolsociety.org
 .nist.gov
 .time.gov
 .openmaps.org
@@ -94,7 +91,7 @@ csis-prod.s3.amazonaws.com
 .osmfoundation.org
 .stateofthemap.com
 .stateofthemap.org
-.paskoocheh.com
+.ppy.sh
 .archive-it.org
 .archive.md
 .archive.org
@@ -107,11 +104,13 @@ csis-prod.s3.amazonaws.com
 .creativecommons.org
 .creativecommons.engineering
 .licensebuttons.net
+.emojipedia.org
+.worldemojiawards.com
+.worldemojiday.com
+.xn--yt8h.la
+.rolfoundation.org
+.rolsociety.org
 .csis.org
-.f-dro1d.org
-.f-droid.com
-.f-droid.org
-.fdroid.org
 .acousticbrainz.org
 .bookbrainz.org
 .coverartarchive.org
@@ -120,3 +119,4 @@ csis-prod.s3.amazonaws.com
 .messybrainz.org
 .metabrainz.org
 .musicbrainz.org
+.paskoocheh.com
