@@ -301,11 +301,6 @@ ocsp.apple.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
-.apple-itunes.cn
-.itunes-apple.cn
-.itunesapple.cn
-.itunesradio.cn
-.itunesradio.com.cn
 .swiftui.cn
 .swiftui.com.cn
 .researchkit.cn
@@ -325,3 +320,8 @@ valid.apple.com
 .icloud.com.cn
 .icloud.net.cn
 .icloudapple.cn
+.apple-itunes.cn
+.itunes-apple.cn
+.itunesapple.cn
+.itunesradio.cn
+.itunesradio.com.cn
