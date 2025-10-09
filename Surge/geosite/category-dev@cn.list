@@ -1,7 +1,4 @@
 cdn.ampproject.org
-firebase-settings.crashlytics.com
-.cdn.jetbrains.com
-.download-cdn.jetbrains.com.cn
 .researchkit.cn
 .researchkit.com.cn
 .swiftui.cn
@@ -9,3 +6,6 @@ firebase-settings.crashlytics.com
 .microsoftreactor.cn
 .microsoftreactor.com.cn
 .reactorms.com.cn
+firebase-settings.crashlytics.com
+.cdn.jetbrains.com
+.download-cdn.jetbrains.com.cn
