@@ -1,7 +1,11 @@
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
+DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
+DOMAIN,2.tracker.eu.org
+DOMAIN,3.tracker.eu.org
+DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
@@ -29,14 +33,15 @@ DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,martin-gebhardt.eu
-DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.demonii.com
+DOMAIN,open.demonii.si
 DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
+DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -48,7 +53,6 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,run.publictracker.xyz
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
@@ -58,6 +62,7 @@ DOMAIN,t-backup.213891.xyz
 DOMAIN,t.213891.xyz
 DOMAIN,t.al.uy
 DOMAIN,t.overflow.biz
+DOMAIN,threads.canofsocks.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
@@ -80,10 +85,11 @@ DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.belmult.online
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.chaoz.li
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
@@ -100,9 +106,9 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.guguan.us.kg
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
@@ -115,7 +121,6 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
-DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
@@ -136,7 +141,6 @@ DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
-DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
@@ -150,6 +154,7 @@ DOMAIN,tracker810.xyz
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,v74853.hosted-by-vdsina.com
+DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
