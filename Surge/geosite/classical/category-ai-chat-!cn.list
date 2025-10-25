@@ -35,8 +35,8 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,jules.google
@@ -47,8 +47,8 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,labs.google
