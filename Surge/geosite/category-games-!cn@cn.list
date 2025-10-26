@@ -1,7 +1,15 @@
 .leagueoflegends.cn
 .lpl.com.cn
+gog.qtlglb.com
+gogalaxy.gog-statics.com
+menu-static.gog-statics.com
+productcard.gog-statics.com
+static-login.gog-statics.com
+www4-static.gog-statics.com
+gog-cdn-fastly.gog.com
+gog-cdn.akamaized.net
+.xboxlive.cn
 .bluearchive-cn.com
-uplaypc-s-ubisoft.cdn.ubi.com
 .legendofzelda.cn
 .legendofzelda.com.cn
 .miitomo.com.cn
@@ -14,15 +22,6 @@ uplaypc-s-ubisoft.cdn.ubi.com
 .mariokart.cn
 .mariokart.com.cn
 .supermariobros.com.cn
-.xboxlive.cn
-gog.qtlglb.com
-gogalaxy.gog-statics.com
-menu-static.gog-statics.com
-productcard.gog-statics.com
-static-login.gog-statics.com
-www4-static.gog-statics.com
-gog-cdn-fastly.gog.com
-gog-cdn.akamaized.net
 .steamserver.net
 .steamusercontent.com
 .csgo.wmsj.cn
@@ -40,3 +39,4 @@ lv.queniujq.cn
 xz.pphimalayanrt.com
 .steamchina.com
 .gstore.val.manlaxy.com
+uplaypc-s-ubisoft.cdn.ubi.com
