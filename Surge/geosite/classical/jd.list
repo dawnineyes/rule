@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,jcloudimg.net
-DOMAIN-SUFFIX,jcloudlb.com
+DOMAIN-SUFFIX,jcloudlb.net
+DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buy.cn
 DOMAIN-SUFFIX,360buy.com
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,7fresh.com
 DOMAIN-SUFFIX,baitiao.com
 DOMAIN-SUFFIX,blackdragon.com
 DOMAIN-SUFFIX,caiyu.com
-DOMAIN-SUFFIX,chicalot.cn
+DOMAIN-SUFFIX,jcloudlb.com
 DOMAIN-SUFFIX,cloud-beijing.com
 DOMAIN-SUFFIX,cloud-hebi.com
 DOMAIN-SUFFIX,cloud-ningbo.com
@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,cloudtongliang.com
 DOMAIN-SUFFIX,cloudweinan.com
 DOMAIN-SUFFIX,cloudxiangtan.com
 DOMAIN-SUFFIX,cloudxianyou.com
-DOMAIN-SUFFIX,cloudxining.com
+DOMAIN-SUFFIX,jcloudimg.net
 DOMAIN-SUFFIX,cloudyanan.com
 DOMAIN-SUFFIX,cloudyancheng.com
 DOMAIN-SUFFIX,cloudyantai.com
@@ -107,12 +107,12 @@ DOMAIN-SUFFIX,jclouddns.net
 DOMAIN-SUFFIX,jcloudec.com
 DOMAIN-SUFFIX,jcloudedge.com
 DOMAIN-SUFFIX,jcloudedge.net
-DOMAIN-SUFFIX,1huizhan.com
+DOMAIN-SUFFIX,jcloudgslb.com
 DOMAIN-SUFFIX,jcloudgslb.net
 DOMAIN-SUFFIX,jcloudimg.com
-DOMAIN-SUFFIX,jcloudgslb.com
+DOMAIN-SUFFIX,cloudxining.com
 DOMAIN-SUFFIX,3.cn
-DOMAIN-SUFFIX,prestodb-china.com
+DOMAIN-SUFFIX,chicalot.cn
 DOMAIN-SUFFIX,jcloudlive.com
 DOMAIN-SUFFIX,jcloudlv.com
 DOMAIN-SUFFIX,jcloudoss.com
@@ -127,13 +127,13 @@ DOMAIN-SUFFIX,jclps.com
 DOMAIN-SUFFIX,jd-app.com
 DOMAIN-SUFFIX,jd-ex.cn
 DOMAIN-SUFFIX,jd-ex.com
+DOMAIN-SUFFIX,imdada.cn
 DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,yiyaojd.com
-DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,jd-ex.net
 DOMAIN-SUFFIX,jd.cn
 DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,yihaodian.com
+DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,jd.shop
 DOMAIN-SUFFIX,jdbusiness.com
 DOMAIN-SUFFIX,jdcache.com
@@ -182,7 +182,7 @@ DOMAIN-SUFFIX,jdh.com
 DOMAIN-SUFFIX,jdjinrong.com
 DOMAIN-SUFFIX,jdl.cn
 DOMAIN-SUFFIX,jdl.com
-DOMAIN-SUFFIX,yhd.com
+DOMAIN-SUFFIX,yihaodian.com
 DOMAIN-SUFFIX,jdlike.cn
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jdpaydns.com
@@ -204,8 +204,8 @@ DOMAIN-SUFFIX,missjia.net
 DOMAIN-SUFFIX,ocwms.com
 DOMAIN-SUFFIX,paidaojia.cn
 DOMAIN-SUFFIX,paipai.com
-DOMAIN-SUFFIX,xjoycity.com
-DOMAIN-SUFFIX,jcloudlb.net
+DOMAIN-SUFFIX,yhd.com
+DOMAIN-SUFFIX,prestodb-china.com
 DOMAIN-SUFFIX,qianxun.com
 DOMAIN-SUFFIX,qingzhouip.com
 DOMAIN-SUFFIX,sgsic.com
@@ -218,6 +218,7 @@ DOMAIN-SUFFIX,wdfok.com
 DOMAIN-SUFFIX,wuliujie.cn
 DOMAIN-SUFFIX,wuliujie.com
 DOMAIN-SUFFIX,xianjiqun.com
+DOMAIN-SUFFIX,xjoycity.com
 DOMAIN-SUFFIX,prestodb.net.cn
 DOMAIN-SUFFIX,jdl.com.cn
 DOMAIN-SUFFIX,jd.com.cn
