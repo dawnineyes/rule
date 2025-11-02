@@ -1,8 +1,8 @@
 amp.akamaized.net
 .lfai.foundation
 .linuxfoundation.org
-.linux.org
 .openjsf.org
+.mochajs.org
 .nodejs.org
 .amp.dev
 .ampproject.com
@@ -12,6 +12,6 @@ amp.akamaized.net
 .jquery.com
 .jquerymobile.com
 .jqueryui.com
-.mochajs.org
 .kernel.org
+.linux.org
 cdn.ampproject.org
