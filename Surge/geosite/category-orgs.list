@@ -1,4 +1,3 @@
-csis-prod.s3.amazonaws.com
 a.ppy.sh
 assets.ppy.sh
 c.ppy.sh
@@ -8,6 +7,7 @@ lazer.ppy.sh
 notify.ppy.sh
 sentry.ppy.sh
 spectator.ppy.sh
+csis-prod.s3.amazonaws.com
 .aomedia.org
 .atypi.org
 .change.org
@@ -26,7 +26,6 @@ spectator.ppy.sh
 .creativecommons.org
 .creativecommons.engineering
 .licensebuttons.net
-.csis.org
 .emojipedia.org
 .worldemojiawards.com
 .worldemojiday.com
@@ -39,8 +38,9 @@ spectator.ppy.sh
 .messybrainz.org
 .metabrainz.org
 .musicbrainz.org
-.nist.gov
-.time.gov
+.paskoocheh.com
+.rolfoundation.org
+.rolsociety.org
 .openmaps.org
 .openstreetmap.com
 .openstreetmap.net
@@ -50,7 +50,7 @@ spectator.ppy.sh
 .osmfoundation.org
 .stateofthemap.com
 .stateofthemap.org
-.paskoocheh.com
+.ppy.sh
 .archive-it.org
 .archive.md
 .archive.org
@@ -59,6 +59,7 @@ spectator.ppy.sh
 .openlibrary.org
 .4pcdn.org
 .4plebs.org
+.csis.org
 .f-dro1d.org
 .f-droid.com
 .f-droid.org
@@ -117,6 +118,5 @@ spectator.ppy.sh
 .signalprocessingsociety.org
 .technologyandsociety.org
 .vtsociety.org
-.ppy.sh
-.rolfoundation.org
-.rolsociety.org
+.nist.gov
+.time.gov
