@@ -671,8 +671,8 @@ DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,and
 DOMAIN-SUFFIX,amazon
-DOMAIN-SUFFIX,jokerlu.asia
-DOMAIN-SUFFIX,hentai-books.com
+DOMAIN-SUFFIX,jokerlu-go.buzz
+DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,1337x.gd
 DOMAIN-SUFFIX,1337x.is
 DOMAIN-SUFFIX,1337x.st
@@ -10931,6 +10931,7 @@ DOMAIN-SUFFIX,fi11av1.com
 DOMAIN-SUFFIX,fi11tv1.com
 DOMAIN-SUFFIX,fibank.bg
 DOMAIN-SUFFIX,umich.edu
+DOMAIN-SUFFIX,ficbook.net
 DOMAIN-SUFFIX,ficeboock.com
 DOMAIN-SUFFIX,umbrella.com
 DOMAIN-SUFFIX,fictionmania.tv
@@ -12139,6 +12140,8 @@ DOMAIN-SUFFIX,ggjav.com
 DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,ggpds.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ggsel.com
+DOMAIN-SUFFIX,ggsel.net
 DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,ggssl.com
 DOMAIN-SUFFIX,gh.io
@@ -13308,7 +13311,7 @@ DOMAIN-SUFFIX,tmi.me
 DOMAIN-SUFFIX,tmei-taoyuan.com
 DOMAIN-SUFFIX,hentai-ani.me
 DOMAIN-SUFFIX,hentai-archive.com
-DOMAIN-SUFFIX,jpvhub.com
+DOMAIN-SUFFIX,hentai-books.com
 DOMAIN-SUFFIX,hentai-chan.com
 DOMAIN-SUFFIX,hentai-chan.live
 DOMAIN-SUFFIX,hentai-cosplays.com
@@ -15658,7 +15661,7 @@ DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,ixsystems.com
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,iyalc.com
-DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,jpopforum.net
 DOMAIN-SUFFIX,taup.net
 DOMAIN-SUFFIX,iyouport.com
 DOMAIN-SUFFIX,iyouport.org
@@ -16051,8 +16054,8 @@ DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,joinside.org
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,jokerlu-go.buzz
 DOMAIN-SUFFIX,000webhost.com
+DOMAIN-SUFFIX,jokerlu.asia
 DOMAIN-SUFFIX,jokerlu.world
 DOMAIN-SUFFIX,jokerlu1.cc
 DOMAIN-SUFFIX,jokerlu1.info
@@ -16086,10 +16089,10 @@ DOMAIN-SUFFIX,jpbabe.com
 DOMAIN-SUFFIX,jpboy1069.net
 DOMAIN-SUFFIX,jpg4.biz
 DOMAIN-SUFFIX,jpg4.pw
-DOMAIN-SUFFIX,jpg4us.net
+DOMAIN-SUFFIX,maddenchampionship.com
 DOMAIN-SUFFIX,tabooporn.tv
-DOMAIN-SUFFIX,myatos.net
 DOMAIN-SUFFIX,12vpn.net
+DOMAIN-SUFFIX,jpvhub.com
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,jquerymobile.com
 DOMAIN-SUFFIX,jqueryui.com
@@ -17518,7 +17521,7 @@ DOMAIN-SUFFIX,mad-ar.ch
 DOMAIN-SUFFIX,madamlive.tv
 DOMAIN-SUFFIX,madchensex.com
 DOMAIN-SUFFIX,maddawgjav.net
-DOMAIN-SUFFIX,maddenchampionship.com
+DOMAIN-SUFFIX,jpg4us.net
 DOMAIN-SUFFIX,maddenrewards.com
 DOMAIN-SUFFIX,maddenseason.info
 DOMAIN-SUFFIX,maddenseason.net
@@ -19269,7 +19272,7 @@ DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,myamateurgirls.net
 DOMAIN-SUFFIX,myamateurtv.com
 DOMAIN-SUFFIX,myappleid.com
-DOMAIN-SUFFIX,jpopforum.net
+DOMAIN-SUFFIX,myatos.net
 DOMAIN-SUFFIX,myaudiocast.com
 DOMAIN-SUFFIX,myautocad.com
 DOMAIN-SUFFIX,myautodeskbenefits.com
@@ -23531,7 +23534,7 @@ DOMAIN-SUFFIX,researchers14.ac.uk
 DOMAIN-SUFFIX,psci-com.ac.uk
 DOMAIN-SUFFIX,psc.ac.uk
 DOMAIN-SUFFIX,psa.ac.uk
-DOMAIN-SUFFIX,prucomm.ac.uk
+DOMAIN-SUFFIX,jpl.nasa.gov
 DOMAIN-SUFFIX,prs-ltsn.ac.uk
 DOMAIN-SUFFIX,proxynetwork.org.uk
 DOMAIN-SUFFIX,researchscotland.ac.uk
@@ -25620,7 +25623,7 @@ DOMAIN-SUFFIX,lww-cetl.ac.uk
 DOMAIN-SUFFIX,lwms.ac.uk
 DOMAIN-SUFFIX,lvv.ac.uk
 DOMAIN-SUFFIX,lutonsfc.ac.uk
-DOMAIN-SUFFIX,jpl.nasa.gov
+DOMAIN-SUFFIX,src.ac.uk
 DOMAIN-SUFFIX,srcf.ucam.org
 DOMAIN-SUFFIX,lutonacl.ac.uk
 DOMAIN-SUFFIX,srf.ac.uk
@@ -26379,7 +26382,7 @@ DOMAIN-SUFFIX,aberdare.ac.uk
 DOMAIN-SUFFIX,jsmc.ac.uk
 DOMAIN-SUFFIX,tablet-academy.ac.uk
 DOMAIN-SUFFIX,jrs.ac.uk
-DOMAIN-SUFFIX,src.ac.uk
+DOMAIN-SUFFIX,prucomm.ac.uk
 DOMAIN-SUFFIX,jp.hao123.com
 DOMAIN-SUFFIX,jp-bank.japanpost.jp
 DOMAIN-SUFFIX,joyobank.co.jp
