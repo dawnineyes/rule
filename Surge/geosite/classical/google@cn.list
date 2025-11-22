@@ -148,6 +148,11 @@ DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+DOMAIN,redirector.c.play.google.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -155,8 +160,3 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN-SUFFIX,ggpht.cn
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-DOMAIN,redirector.c.play.google.com
