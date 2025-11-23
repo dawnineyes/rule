@@ -148,9 +148,6 @@ www.pxcc.com
 xn--flw351e.com
 .gvt1-cn.com
 .gvt2-cn.com
-redirector.c.play.google.com
-firebase-settings.crashlytics.com
-.ggpht.cn
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -158,3 +155,6 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
+.ggpht.cn
+firebase-settings.crashlytics.com
+redirector.c.play.google.com
