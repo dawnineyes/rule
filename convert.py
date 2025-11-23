@@ -13,7 +13,7 @@ def convert3():
 
     # 2. 使用 Linux 的 sing-box 编译
     cmd = [
-        "./sing-box", "rule-set", "convert",
+        "./bin/sing-box", "rule-set", "convert",
         "--type", "adguard", "sing-box/adguard_dns_filter"
     ]
 
