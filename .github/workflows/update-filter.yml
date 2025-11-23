@@ -26,8 +26,10 @@ jobs:
         run: |
           wget https://github.com/SagerNet/sing-box/releases/download/v1.11.4/sing-box-1.11.4-linux-amd64.tar.gz
           tar -xzf sing-box-1.11.4-linux-amd64.tar.gz
-          mv sing-box-1.11.4-linux-amd64/sing-box ./sing-box
+          cp sing-box-1.11.4-linux-amd64/sing-box ./sing-box
           chmod +x ./sing-box
+          ls -l ./sing-box
+
 
       - name: Run Python script
         run: python convert.py
