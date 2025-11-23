@@ -1,0 +1,46 @@
+name: Update AdGuard Filter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 0 点执行（北京时间早上 8 点）
+  workflow_dispatch:       # 可手动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python Dependencies
+        run: |
+          pip install requests
+
+      - name: Download sing-box 1.11.4
+        run: |
+          wget https://github.com/SagerNet/sing-box/releases/download/v1.11.4/sing-box-1.11.4-linux-amd64.tar.gz
+          tar -xzf sing-box-1.11.4-linux-amd64.tar.gz
+          mv sing-box-1.11.4-linux-amd64/sing-box ./sing-box
+          chmod +x ./sing-box
+
+      - name: Run Python script
+        run: python convert.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add sing-box/adguard_dns_filter sing-box/adguard_dns_filter.srs || true
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update AdGuard DNS filter"
+            git push
+          else
+            echo "No changes detected."
+          fi
