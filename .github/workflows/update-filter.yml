@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # 每天 UTC 0 点执行（北京时间早上 8 点）
   workflow_dispatch:       # 可手动运行
 
+permissions:
+  contents: write
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
