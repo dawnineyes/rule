@@ -44,10 +44,6 @@ DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
-DOMAIN,kc.kexinshe.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,aki-game.com
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp1.aliyun.com
 DOMAIN,ntp2.aliyun.com
@@ -69,6 +65,9 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,weui.io
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
@@ -93,6 +92,8 @@ DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
+DOMAIN,kc.kexinshe.com
+DOMAIN-SUFFIX,weui.io
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
 DOMAIN-SUFFIX,devui.design
@@ -116,4 +117,3 @@ DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
-DOMAIN-SUFFIX,weui.io
