@@ -682,7 +682,7 @@ DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,amazon
-DOMAIN-SUFFIX,javfv.com
+DOMAIN-SUFFIX,javfun.me
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
@@ -2739,6 +2739,7 @@ DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,area51.to
@@ -4322,7 +4323,7 @@ DOMAIN-SUFFIX,bloombergnext.com
 DOMAIN-SUFFIX,bloombergpolarlake.com
 DOMAIN-SUFFIX,bloombergprep.com
 DOMAIN-SUFFIX,bloombergquint.com
-DOMAIN-SUFFIX,bloombergradio.com
+DOMAIN-SUFFIX,javmobile.mobi
 DOMAIN-SUFFIX,bloombergsef.com
 DOMAIN-SUFFIX,bloombergspace.com
 DOMAIN-SUFFIX,bloombergstatus.com
@@ -5299,7 +5300,7 @@ DOMAIN-SUFFIX,camgirlstemple.com
 DOMAIN-SUFFIX,camgoddess.tv
 DOMAIN-SUFFIX,camonster.com
 DOMAIN-SUFFIX,campaign-archive.com
-DOMAIN-SUFFIX,campaignforuyghurs.org
+DOMAIN-SUFFIX,javmix.tv
 DOMAIN-SUFFIX,campushp.com
 DOMAIN-SUFFIX,campuslondon.com
 DOMAIN-SUFFIX,camrabbit.com
@@ -8193,6 +8194,8 @@ DOMAIN-SUFFIX,emac.in
 DOMAIN-SUFFIX,emaga.com
 DOMAIN-SUFFIX,emagic.de
 DOMAIN-SUFFIX,emanna.com
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,embase.com
 DOMAIN-SUFFIX,embed-cdn.com
 DOMAIN-SUFFIX,embed.ly
@@ -8831,6 +8834,8 @@ DOMAIN-SUFFIX,facegbook.com
 DOMAIN-SUFFIX,faceid99.com
 DOMAIN-SUFFIX,faceid99.net
 DOMAIN-SUFFIX,faceidglobal.com
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,faceless.me
 DOMAIN-SUFFIX,faceobk.com
 DOMAIN-SUFFIX,faceobok.com
@@ -13407,8 +13412,8 @@ DOMAIN-SUFFIX,javfree.me
 DOMAIN-SUFFIX,javfree.sh
 DOMAIN-SUFFIX,javfuck.net
 DOMAIN-SUFFIX,javfull.net
-DOMAIN-SUFFIX,javfun.me
 DOMAIN-SUFFIX,000webhost.com
+DOMAIN-SUFFIX,javfv.com
 DOMAIN-SUFFIX,javgg.net
 DOMAIN-SUFFIX,javgrown.com
 DOMAIN-SUFFIX,javhard.net
@@ -13441,10 +13446,10 @@ DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javlibrary.tv
 DOMAIN-SUFFIX,javmenu.com
 DOMAIN-SUFFIX,javmix.me
-DOMAIN-SUFFIX,javmix.tv
-DOMAIN-SUFFIX,lamrim.com
-DOMAIN-SUFFIX,shownote.com
-DOMAIN-SUFFIX,sankei-call.jp
+DOMAIN-SUFFIX,campaignforuyghurs.org
+DOMAIN-SUFFIX,bloombergradio.com
+DOMAIN-SUFFIX,wangruoshui.net
+DOMAIN-SUFFIX,javmodel.com
 DOMAIN-SUFFIX,javmoo.com
 DOMAIN-SUFFIX,javmoo.xyz
 DOMAIN-SUFFIX,javmost.com
@@ -14131,7 +14136,7 @@ DOMAIN-SUFFIX,lalulalu.com
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,lamayeshe.com
 DOMAIN-SUFFIX,windscribe.com
-DOMAIN-SUFFIX,javmobile.mobi
+DOMAIN-SUFFIX,lamrim.com
 DOMAIN-SUFFIX,lanasbigboobs.com
 DOMAIN-SUFFIX,landofhope.tv
 DOMAIN-SUFFIX,langsuirs.com
@@ -17194,7 +17199,7 @@ DOMAIN-SUFFIX,wankz.com
 DOMAIN-SUFFIX,wankoz.com
 DOMAIN-SUFFIX,wankizer.com
 DOMAIN-SUFFIX,wankgames.com
-DOMAIN-SUFFIX,wangruoshui.net
+DOMAIN-SUFFIX,javmobile.net
 DOMAIN-SUFFIX,wango.org
 DOMAIN-SUFFIX,wanglixiong.com
 DOMAIN-SUFFIX,wangjinbo.org
@@ -19505,6 +19510,7 @@ DOMAIN-SUFFIX,rea.io
 DOMAIN-SUFFIX,rea.tech
 DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,reachporn.com
+DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
 DOMAIN-SUFFIX,react.com
 DOMAIN-SUFFIX,reactjs.com
@@ -20014,7 +20020,7 @@ DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sankei-ad-info.com
 DOMAIN-SUFFIX,sankei-ad.net
 DOMAIN-SUFFIX,volvopenta.nl
-DOMAIN-SUFFIX,javmodel.com
+DOMAIN-SUFFIX,sankei-call.jp
 DOMAIN-SUFFIX,volvopenta.it
 DOMAIN-SUFFIX,volvopenta.fr
 DOMAIN-SUFFIX,volvopenta.es
@@ -20646,7 +20652,7 @@ DOMAIN-SUFFIX,shotgunstudio.com
 DOMAIN-SUFFIX,shotgunvfx.com
 DOMAIN-SUFFIX,shotwithgeforce.com
 DOMAIN-SUFFIX,showhaotu.com
-DOMAIN-SUFFIX,javmobile.net
+DOMAIN-SUFFIX,shownote.com
 DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,showtime.jp
 DOMAIN-SUFFIX,showtimeanytime.com
