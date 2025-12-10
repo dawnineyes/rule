@@ -1,3 +1,6 @@
+.cdn.jetbrains.com
+.download-cdn.jetbrains.com.cn
+cdn.ampproject.org
 .researchkit.cn
 .researchkit.com.cn
 .swiftui.cn
@@ -6,6 +9,3 @@
 .microsoftreactor.com.cn
 .reactorms.com.cn
 firebase-settings.crashlytics.com
-.cdn.jetbrains.com
-.download-cdn.jetbrains.com.cn
-cdn.ampproject.org
