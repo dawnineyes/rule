@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,tencentcloudapi.com
-DOMAIN-SUFFIX,tencentcos.com
+DOMAIN-SUFFIX,tencentcloud-aiot.com
+DOMAIN-SUFFIX,tencentcloudsec.com
 DOMAIN-SUFFIX,aitransfy.com
 DOMAIN-SUFFIX,apaas-zone-test.com
 DOMAIN-SUFFIX,apdcdn.com
@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,gmedev.cn
 DOMAIN-SUFFIX,govqcloud.com
 DOMAIN-SUFFIX,gsadds.com
 DOMAIN-SUFFIX,gtm.pub
-DOMAIN-SUFFIX,hr-welink.com
+DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,idcgcloudcs.com
 DOMAIN-SUFFIX,iemiq.com
 DOMAIN-SUFFIX,igtm-meeting-tencent.com
@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,qclouder.com
 DOMAIN-SUFFIX,qcloudgme.com
 DOMAIN-SUFFIX,qcloudimg.com
-DOMAIN-SUFFIX,acctdns.com
+DOMAIN-SUFFIX,qcloudipv6.com
 DOMAIN-SUFFIX,qcloudmarket.com
 DOMAIN-SUFFIX,qcloudns.com
 DOMAIN-SUFFIX,qcloudsmartiot.com
@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,spcloudhw.net
 DOMAIN-SUFFIX,srmkp.cn
 DOMAIN-SUFFIX,starlakelab.com
 DOMAIN-SUFFIX,tapd.cn
-DOMAIN-SUFFIX,tcdlive.com
+DOMAIN-SUFFIX,tencentcloudclub.com
 DOMAIN-SUFFIX,tcdnhw.com
 DOMAIN-SUFFIX,tcdnkcbak.com
 DOMAIN-SUFFIX,tcdnlive.com
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,tcloudhw.com
 DOMAIN-SUFFIX,tcloudhw.net
 DOMAIN-SUFFIX,tcloudscdn.com
 DOMAIN-SUFFIX,tcloudscdn.net
+DOMAIN-SUFFIX,tdnsstic1.cn
 DOMAIN-SUFFIX,tdnsx1.com
 DOMAIN-SUFFIX,techo.chat
 DOMAIN-SUFFIX,tefscloud.com
@@ -141,16 +142,16 @@ DOMAIN-SUFFIX,tencentcdb.cn
 DOMAIN-SUFFIX,tencentcdb.com
 DOMAIN-SUFFIX,dnsv4.com
 DOMAIN-SUFFIX,tencentclb.com
-DOMAIN-SUFFIX,tencentcloud-aiot.com
-DOMAIN-SUFFIX,qcloudipv6.com
+DOMAIN-SUFFIX,hr-welink.com
 DOMAIN-SUFFIX,acctdns.net
-DOMAIN-SUFFIX,testwaf.com
+DOMAIN-SUFFIX,tcdlive.com
+DOMAIN-SUFFIX,tencentcloudcr.com
 DOMAIN-SUFFIX,tencentcloudmarket.com
 DOMAIN-SUFFIX,tencentcloudns.com
-DOMAIN-SUFFIX,tencentcloudsec.com
+DOMAIN-SUFFIX,tencentcloudapi.com
 DOMAIN-SUFFIX,tencentcloudses.com
 DOMAIN-SUFFIX,tencentcos.cn
-DOMAIN-SUFFIX,tencentcloudclub.com
+DOMAIN-SUFFIX,tencentcos.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,tencentcs.cn
 DOMAIN-SUFFIX,tencentcs.com
@@ -173,7 +174,7 @@ DOMAIN-SUFFIX,tendbcluster.com
 DOMAIN-SUFFIX,tendis.net
 DOMAIN-SUFFIX,dnsapi.cn
 DOMAIN-SUFFIX,testmeet.cn
-DOMAIN-SUFFIX,tencentcloudcr.com
+DOMAIN-SUFFIX,testwaf.com
 DOMAIN-SUFFIX,tgovcloud.com
 DOMAIN-SUFFIX,tidaas.com
 DOMAIN-SUFFIX,dnspod.mobi
