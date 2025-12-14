@@ -1,3 +1,4 @@
+csis-prod.s3.amazonaws.com
 a.ppy.sh
 assets.ppy.sh
 c.ppy.sh
@@ -7,7 +8,6 @@ lazer.ppy.sh
 notify.ppy.sh
 sentry.ppy.sh
 spectator.ppy.sh
-csis-prod.s3.amazonaws.com
 .aomedia.org
 .atypi.org
 .change.org
@@ -22,9 +22,6 @@ csis-prod.s3.amazonaws.com
 .who.int
 .wi-fi.org
 .wto.org
-.ppy.sh
-.rolfoundation.org
-.rolsociety.org
 .archive-it.org
 .archive.md
 .archive.org
@@ -37,17 +34,7 @@ csis-prod.s3.amazonaws.com
 .creativecommons.org
 .creativecommons.engineering
 .licensebuttons.net
-.nist.gov
-.time.gov
-.openmaps.org
-.openstreetmap.com
-.openstreetmap.net
-.openstreetmap.org
-.openstreetmaps.org
-.osm.org
-.osmfoundation.org
-.stateofthemap.com
-.stateofthemap.org
+.csis.org
 .acousticbrainz.org
 .bookbrainz.org
 .coverartarchive.org
@@ -57,7 +44,7 @@ csis-prod.s3.amazonaws.com
 .metabrainz.org
 .musicbrainz.org
 .paskoocheh.com
-.csis.org
+.ppy.sh
 .emojipedia.org
 .worldemojiawards.com
 .worldemojiday.com
@@ -120,3 +107,16 @@ csis-prod.s3.amazonaws.com
 .signalprocessingsociety.org
 .technologyandsociety.org
 .vtsociety.org
+.nist.gov
+.time.gov
+.openmaps.org
+.openstreetmap.com
+.openstreetmap.net
+.openstreetmap.org
+.openstreetmaps.org
+.osm.org
+.osmfoundation.org
+.stateofthemap.com
+.stateofthemap.org
+.rolfoundation.org
+.rolsociety.org

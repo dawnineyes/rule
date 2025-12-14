@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
 DOMAIN-SUFFIX,okolo.app
@@ -64,17 +63,16 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
@@ -100,6 +98,8 @@ DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
