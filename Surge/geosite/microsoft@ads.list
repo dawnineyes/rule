@@ -1,5 +1,3 @@
-.collector.github.com
-.copilot-telemetry.githubusercontent.com
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
 .clarity.ms
@@ -7,3 +5,5 @@
 .msads.net
 .nelreports.net
 .bingads.com
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
