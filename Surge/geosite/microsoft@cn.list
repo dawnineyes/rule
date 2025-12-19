@@ -76,11 +76,6 @@ bj1.api.bing.com
 emoi-cncdn.bing.com
 www.microsoft.com
 .xboxlive.cn
-.microsoftreactor.cn
-.microsoftreactor.com.cn
-.reactorms.com.cn
-.microsoftnews.cn
-.msn.cn
 .21vbc.com
 .21vbluecloud.com
 .21vbluecloud.net
@@ -166,3 +161,8 @@ www.microsoft.com
 .azure-dns-8.cn
 .azure-dns-9.cn
 .azure-dns-10.cn
+.microsoftreactor.cn
+.microsoftreactor.com.cn
+.reactorms.com.cn
+.microsoftnews.cn
+.msn.cn
