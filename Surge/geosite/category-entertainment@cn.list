@@ -1,7 +1,6 @@
-.xboxlive.cn
-.bluearchive-cn.com
-.leagueoflegends.cn
-.lpl.com.cn
+.ggpht.cn
+.amazonprimevideo.cn
+.amazonprimevideo.com.cn
 .steamserver.net
 .steamusercontent.com
 .csgo.wmsj.cn
@@ -20,6 +19,8 @@ xz.pphimalayanrt.com
 .steamchina.com
 .gstore.val.manlaxy.com
 uplaypc-s-ubisoft.cdn.ubi.com
+.leagueoflegends.cn
+.lpl.com.cn
 .legendofzelda.cn
 .legendofzelda.com.cn
 .miitomo.com.cn
@@ -40,6 +41,5 @@ static-login.gog-statics.com
 www4-static.gog-statics.com
 gog-cdn-fastly.gog.com
 gog-cdn.akamaized.net
-.ggpht.cn
-.amazonprimevideo.cn
-.amazonprimevideo.com.cn
+.bluearchive-cn.com
+.xboxlive.cn
