@@ -25,7 +25,7 @@ jobs:
 
       - name: 📝 Generate geoip2-cn.json
         run: |
-          echo '{"rules":[{"ip_cidr":[' > geoip2-cn.json
+          echo '{"version": 3,"rules":[{"ip_cidr":[' > geoip2-cn.json
           sed 's/^/"/; s/$/"/' cn.txt | paste -sd, - >> geoip2-cn.json
           echo ']}]}' >> geoip2-cn.json
 
