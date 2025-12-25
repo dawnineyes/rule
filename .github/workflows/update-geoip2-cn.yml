@@ -1,0 +1,47 @@
+name: Update GeoIP2 CN CIDR
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天0点UTC运行 (北京时间早上8点)
+  workflow_dispatch: # 允许手动运行
+
+jobs:
+  update-geoip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 确保可以提交代码
+
+      - name: 🌐 Download IP list
+        run: |
+          curl -sSL https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/refs/heads/release/CN-ip-cidr.txt -o cn.txt
+          if [ ! -s cn.txt ]; then
+            echo "❌ 下载失败或文件为空"
+            exit 1
+          fi
+
+      - name: 📝 Generate geoip2-cn.json
+        run: |
+          echo '{"rules":[{"ip_cidr":[' > geoip2-cn.json
+          sed 's/^/"/; s/$/"/' cn.txt | paste -sd, - >> geoip2-cn.json
+          echo ']}]}' >> geoip2-cn.json
+
+      - name: 📁 Move file to target directory
+        run: |
+          mkdir -p sing-box/geoip
+          mv geoip2-cn.json sing-box/geoip/geoip2-cn.json
+
+      - name: 🔁 Commit & Push changes
+        run: |
+          if git diff --quiet; then
+            echo "🌟 无更新内容，结束工作流程"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sing-box/geoip/geoip2-cn.json
+          git commit -m "Auto update GeoIP2 CN CIDR"
+          git push
