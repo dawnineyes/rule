@@ -1,4 +1,4 @@
-name: Update Sing-box Geosite Rule
+name: Update Sing-box Geosite cn2 Rule
 
 on:
   # 每天 0点 (UTC时间) 运行
