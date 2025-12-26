@@ -2,7 +2,7 @@ name: Update Geosite CN Rules
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # 每天 UTC 0 点（北京时间 08:00）
+    - cron: "0 0 * * *"        # 每天 UTC 0 点
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Install tools
+      - name: Install jq
         run: |
           sudo apt-get update
           sudo apt-get install -y jq
@@ -29,16 +29,19 @@ jobs:
           suffixes=$(grep -oP "(?<=DOMAIN-SUFFIX\s*,\s).*" GeositeCN.yaml | sed 's/ #.*//' | sed '/^\s*$/d')
           json_suffix=$(printf "%s\n" "$suffixes" | jq -R . | jq -s .)
 
-          cat > sing-box/geosite/cn2.json <<EOF
+          cat << 'EOF' > sing-box/geosite/cn2.json
 {
   "version": 3,
   "rules": [
     {
-      "domain_suffix": $json_suffix
+      "domain_suffix": __JSON_DATA__
     }
   ]
 }
 EOF
+
+          # 用安全的替换方式将 JSON 填充进去
+          sed -i "s|__JSON_DATA__|$json_suffix|g" sing-box/geosite/cn2.json
 
       - name: Commit & Push if Changed
         run: |
@@ -47,8 +50,7 @@ EOF
 
           if git status --porcelain | grep -q "cn2.json"; then
             git add sing-box/geosite/cn2.json
-            git commit -m "Auto Update cn2.json"
+            git commit -m "Auto update cn2.json"
             git push
           else
-            echo "No update. Skip commit."
-          fi
+            echo "No changes to commit"
