@@ -3,7 +3,7 @@ name: Update GeoIP2 CN CIDR
 on:
   schedule:
     - cron: "0 0 * * *" # 每天0点UTC运行 (北京时间早上8点)
-  workflow_dispatch: # 允许手动运行
+  workflow_dispatch:
 
 jobs:
   update-geoip:
@@ -13,31 +13,38 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 确保可以提交代码
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: 🌐 Download IP list
         run: |
           curl -sSL https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/refs/heads/release/CN-ip-cidr.txt -o cn.txt
           if [ ! -s cn.txt ]; then
-            echo "❌ 下载失败或文件为空"
-            exit 1
+            echo "❌ 下载失败或内容为空"; exit 1;
           fi
 
       - name: 📝 Generate geoip2-cn.json
         run: |
-          echo '{"version": 3,"rules":[{"ip_cidr":[' > geoip2-cn.json
-          sed 's/^/"/; s/$/"/' cn.txt | paste -sd, - >> geoip2-cn.json
-          echo ']}]}' >> geoip2-cn.json
-
-      - name: 📁 Move file to target directory
-        run: |
           mkdir -p sing-box/geoip
-          mv geoip2-cn.json sing-box/geoip/geoip2-cn.json
+          {
+            echo '{"rules":[{"ip_cidr":['
+            sed 's/^/"/; s/$/"/' cn.txt | paste -sd, -
+            echo ']}]}'
+          } > sing-box/geoip/geoip2-cn.json
 
       - name: 🔁 Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 只添加目标文件
           git add sing-box/geoip/geoip2-cn.json
-          git commit -m "Auto update GeoIP2 CN CIDR"
-          git push
+          
+          # 如果有变更才提交
+          if git diff --cached --quiet; then
+            echo "🌟 没有变化，无需提交"
+          else
+            git commit -m "Auto update GeoIP2 CN CIDR"
+            git push
+            echo "📌 已成功提交到仓库"
+          fi
