@@ -1,0 +1,55 @@
+name: Update Geosite CN Rules
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 0 点 UTC (中国时间 08:00)
+  workflow_dispatch:      # 手动触发
+
+jobs:
+  update-cn2:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Install jq & yq (YAML/JSON 工具)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          pip install yq
+
+      - name: Download GeositeCN.yaml
+        run: |
+          curl -L "https://github.com/Accademia/Additional_Rule_For_Clash/raw/refs/heads/main/GeositeCN/GeositeCN.yaml" -o GeositeCN.yaml
+
+      - name: Extract DOMAIN-SUFFIX and generate cn2.json
+        run: |
+          mkdir -p sing-box/geosite
+
+          # 提取 DOMAIN-SUFFIX 字段
+          suffixes=$(grep -oP "(?<=DOMAIN-SUFFIX\s*,\s).*" GeositeCN.yaml | sed 's/ #.*//')
+
+          # 转为 JSON 数组
+          json_suffix=$(printf "%s\n" "$suffixes" | jq -R . | jq -s .)
+
+          # 生成 cn2.json
+          cat > sing-box/geosite/cn2.json <<EOF
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": $json_suffix
+    }
+  ]
+}
+EOF
+
+      - name: Commit & Push if Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add sing-box/geosite/cn2.json
+          git commit -m "Auto Update cn2.json"
+          git push
