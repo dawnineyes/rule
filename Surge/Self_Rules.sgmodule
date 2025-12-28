@@ -1,8 +1,0 @@
-#!name=self rules
-#!desc=self rules
-#!system=ios
-
-[Rule]
-DOMAIN-SUFFIX,sub.kwk7thgc.com,DIRECT
-
-DOMAIN-KEYWORD,69shu,Proxy
