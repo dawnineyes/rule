@@ -27,7 +27,7 @@ jobs:
         run: |
           mkdir -p sing-box/geoip
           {
-            echo '{"rules":[{"ip_cidr":['
+            echo '{"version": 3,"rules":[{"ip_cidr":['
             sed 's/^/"/; s/$/"/' cn.txt | paste -sd, -
             echo ']}]}'
           } > sing-box/geoip/geoip2-cn.json
