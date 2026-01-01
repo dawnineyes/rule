@@ -83,6 +83,39 @@ def save_to_json(domains):
     
     print(f"文件已成功保存至: {OUTPUT_FILE}")
 
+
+TELEGRAM_URL = "https://core.telegram.org/resources/cidr.txt"
+TELEGRAM_OUTPUT = "sing-box/geoip/telegram.json"
+
+def update_telegram_cidr():
+    print(f"正在下载 Telegram CIDR 列表: {TELEGRAM_URL}")
+    try:
+        r = requests.get(TELEGRAM_URL, timeout=30)
+        r.raise_for_status()
+        lines = r.text.splitlines()
+    except Exception as e:
+        print("Telegram CIDR 下载失败:", e)
+        return
+
+    cidrs = [i.strip() for i in lines if i.strip() and not i.startswith("#")]
+
+    data = {
+        "version": 3,
+        "rules": [
+            {
+                "ip_cidr": cidrs
+            }
+        ]
+    }
+
+    os.makedirs(os.path.dirname(TELEGRAM_OUTPUT), exist_ok=True)
+    with open(TELEGRAM_OUTPUT, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+    print(f"Telegram IP 列表已更新: {TELEGRAM_OUTPUT}")
+
 if __name__ == "__main__":
     domains = download_and_parse()
     save_to_json(domains)
+
+    update_telegram_cidr()
