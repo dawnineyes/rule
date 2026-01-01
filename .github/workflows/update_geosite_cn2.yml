@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Conversion Script
         run: |
-          python scripts/update_geosite.py
+          python scripts/update.py
 
       - name: Commit and Push Changes
         run: |
