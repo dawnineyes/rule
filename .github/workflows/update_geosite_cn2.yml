@@ -41,8 +41,8 @@ jobs:
           
           # 检查是否有文件变动
           if [ -n "$(git status --porcelain)" ]; then
-            git add sing-box/geosite/cn2.json
-            git commit -m "Auto-update: Update cn2.json from upstream [skip ci]"
+            git add sing-box/
+            git commit -m "Auto-update [skip ci]"
             git push
             echo "Changes pushed successfully."
           else
