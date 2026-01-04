@@ -1,5 +1,6 @@
 .kurogames.com
 .aki-game.com
+.bluearchive-cn.com
 .legendofzelda.cn
 .legendofzelda.com.cn
 .miitomo.com.cn
@@ -12,8 +13,16 @@
 .mariokart.cn
 .mariokart.com.cn
 .supermariobros.com.cn
-.bluearchive-cn.com
 .xboxlive.cn
+uplaypc-s-ubisoft.cdn.ubi.com
+gog.qtlglb.com
+gogalaxy.gog-statics.com
+menu-static.gog-statics.com
+productcard.gog-statics.com
+static-login.gog-statics.com
+www4-static.gog-statics.com
+gog-cdn-fastly.gog.com
+gog-cdn.akamaized.net
 .steamserver.net
 .steamusercontent.com
 .csgo.wmsj.cn
@@ -33,12 +42,3 @@ xz.pphimalayanrt.com
 .gstore.val.manlaxy.com
 .leagueoflegends.cn
 .lpl.com.cn
-gog.qtlglb.com
-gogalaxy.gog-statics.com
-menu-static.gog-statics.com
-productcard.gog-statics.com
-static-login.gog-statics.com
-www4-static.gog-statics.com
-gog-cdn-fastly.gog.com
-gog-cdn.akamaized.net
-uplaypc-s-ubisoft.cdn.ubi.com
