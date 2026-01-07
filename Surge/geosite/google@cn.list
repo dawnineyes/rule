@@ -4,8 +4,9 @@
 .googlecnapps.cn
 .gstatic.cn
 .gstaticcnapps.cn
+.gvt1-cn.com
+.gvt2-cn.com
 www.recaptcha.net
-safebrowsing-cache.google.com
 265.com
 2mdn-cn.net
 2mdn.net
@@ -34,7 +35,6 @@ cnappinstall.googleadapis.com
 connectivitycheck.gstatic.com
 content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
-crl.pki.goog
 csi.gstatic.com
 dartsearch-cn.net
 dg-meta.video.google.com
@@ -46,7 +46,6 @@ download.mlcc.google.com
 download.qatp1.net
 download.tensorflow.google.com
 emmapplecodevice.googleapis.com
-firebase-settings.crashlytics.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -85,10 +84,8 @@ logger-dev.corp.google.com
 logger.corp.google.com
 login.corp.google.com
 monitoring.qpdp1.net
-ocsp.pki.goog
 pagead-googlehosted.l.google.com
 performanceparameters.googleapis.com
-pki-goog.l.google.com
 prod-controlbe.floonet.goog
 prod-databe.floonet.goog
 prod.databe.floonet.goog
@@ -107,7 +104,6 @@ redirector.bdn.dev
 redirector.c.chat.google.com
 redirector.c.mail.google.com
 redirector.c.pack.google.com
-redirector.c.play.google.com
 redirector.c.youtubeeducation.com
 redirector.gcpcdn.gvt1.com
 redirector.gvt1.com
@@ -146,10 +142,6 @@ www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
 xn--flw351e.com
-.gvt1-cn.com
-.gvt2-cn.com
-redirector.c.play.google.com
-.ggpht.cn
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -157,4 +149,6 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
+.ggpht.cn
+redirector.c.play.google.com
 firebase-settings.crashlytics.com
