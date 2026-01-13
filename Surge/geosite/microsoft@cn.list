@@ -65,6 +65,9 @@ vscode.download.prss.microsoft.com
 vz.download.prss.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
+www.microsoft.com
+.microsoftnews.cn
+.msn.cn
 .xboxlive.cn
 .21vbc.com
 .21vbluecloud.com
@@ -151,6 +154,9 @@ wscont2.apps.microsoft.com
 .azure-dns-8.cn
 .azure-dns-9.cn
 .azure-dns-10.cn
+.microsoftreactor.cn
+.microsoftreactor.com.cn
+.reactorms.com.cn
 .bing.com.cn
 .cn.bing.com
 .cn.bing.net
@@ -160,9 +166,3 @@ wscont2.apps.microsoft.com
 .th.bing.com
 bj1.api.bing.com
 emoi-cncdn.bing.com
-.microsoftreactor.cn
-.microsoftreactor.com.cn
-.reactorms.com.cn
-www.microsoft.com
-.microsoftnews.cn
-.msn.cn
