@@ -150,6 +150,8 @@ DOMAIN-SUFFIX,azure-dns-7.cn
 DOMAIN-SUFFIX,azure-dns-8.cn
 DOMAIN-SUFFIX,azure-dns-9.cn
 DOMAIN-SUFFIX,azure-dns-10.cn
+DOMAIN-SUFFIX,microsoftnews.cn
+DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
@@ -163,6 +165,4 @@ DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN,www.microsoft.com
-DOMAIN-SUFFIX,microsoftnews.cn
-DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,xboxlive.cn
