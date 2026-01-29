@@ -42,6 +42,7 @@ amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 amp-api.music.apple.com
+aod-ssl.itunes.apple.com
 aod.itunes.apple.com
 api-edge.apps.apple.com
 apptrailers.itunes.apple.com
@@ -250,13 +251,6 @@ weatherkit.apple.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
 xp.apple.com
-.beats1.cn
-.beats1.com.cn
-.beats2.com.cn
-.beats4.cn
-.beatsbydre.com
-.beatsbydre.com.cn
-.beatsep.cn
 .apple-icloud.cn
 .appleicloud.cn
 .icloud-apple.cn
@@ -282,3 +276,10 @@ ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
 valid.origin-apple.com.akadns.net
+.beats1.cn
+.beats1.com.cn
+.beats2.com.cn
+.beats4.cn
+.beatsbydre.com
+.beatsbydre.com.cn
+.beatsep.cn
