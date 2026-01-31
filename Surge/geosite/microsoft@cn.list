@@ -151,8 +151,6 @@ wscont2.apps.microsoft.com
 .azure-dns-9.cn
 .azure-dns-10.cn
 www.microsoft.com
-.microsoftnews.cn
-.msn.cn
 .bing.com.cn
 .cn.bing.com
 .cn.bing.net
@@ -165,4 +163,6 @@ emoi-cncdn.bing.com
 .microsoftreactor.cn
 .microsoftreactor.com.cn
 .reactorms.com.cn
+.microsoftnews.cn
+.msn.cn
 .xboxlive.cn
