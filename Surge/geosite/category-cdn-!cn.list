@@ -1,10 +1,6 @@
 .b-cdn.net
 .bunny.net
 .bunnycdn.com
-.cdn77.com
-.cdn77.org
-.imgix.com
-.imgix.net
 .delvenetworks.com
 .limelight.com
 .lldns.net
@@ -13,7 +9,10 @@
 .llnw.net
 .llnwd.net
 .llnwi.net
-.quantil.com
+.pagecdn.com
+.pagecdn.io
+.stackpath.com
+.stackpath.dev
 .ak1.net
 .aka-ai.com
 .aka-ai.net
@@ -83,6 +82,8 @@
 .iamakamai.net
 .soasta-dswb.com
 .srtcdn.net
+.cdn77.com
+.cdn77.org
 .argotunnel.com
 .browser.run
 .cfargotunnel.com
@@ -145,10 +146,9 @@
 .fastlylabs.com
 .fastlylb.net
 .zencdn.net
-.pagecdn.com
-.pagecdn.io
-.stackpath.com
-.stackpath.dev
+.imgix.com
+.imgix.net
+.quantil.com
 .vrcdn.cloud
 .vrcdn.live
 .vrcdn.video
