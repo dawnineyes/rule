@@ -2,7 +2,6 @@ DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com
 DOMAIN-SUFFIX,admob.com
-DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
@@ -51,4 +50,4 @@ DOMAIN-SUFFIX,pagead.l.google.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
-DOMAIN-REGEX,^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+DOMAIN-SUFFIX,ads.youtube.com

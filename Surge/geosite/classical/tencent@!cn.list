@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
+DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com
@@ -66,3 +67,4 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com
 DOMAIN-SUFFIX,ger.file.myqcloud.com
 DOMAIN-SUFFIX,rumt-sg.com
 DOMAIN-SUFFIX,rumt-us.com
+DOMAIN-SUFFIX,webnovel.com
