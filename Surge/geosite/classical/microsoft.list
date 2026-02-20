@@ -385,12 +385,6 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,callersbane.com
-DOMAIN-SUFFIX,minecraft-services.net
-DOMAIN-SUFFIX,minecraft.net
-DOMAIN-SUFFIX,minecraftservices.com
-DOMAIN-SUFFIX,minecraftshop.com
-DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,beth.games
@@ -403,6 +397,12 @@ DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,microsoft.be
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,azure-devices-int.net
