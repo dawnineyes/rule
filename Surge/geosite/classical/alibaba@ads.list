@@ -22,7 +22,8 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
-DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
+DOMAIN-SUFFIX,ads.uc.cn
+DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
@@ -83,5 +84,4 @@ DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
-DOMAIN-SUFFIX,ads.uc.cn
-DOMAIN-SUFFIX,adslot.uc.cn
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
