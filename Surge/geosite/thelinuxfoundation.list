@@ -4,6 +4,7 @@ amp.akamaized.net
 .kernel.org
 .linux.org
 .openjsf.org
+.mochajs.org
 .nodejs.org
 .amp.dev
 .ampproject.com
@@ -13,5 +14,4 @@ amp.akamaized.net
 .jquery.com
 .jquerymobile.com
 .jqueryui.com
-.mochajs.org
 cdn.ampproject.org
