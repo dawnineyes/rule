@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp1.aliyun.com
 DOMAIN,ntp2.aliyun.com
@@ -39,6 +38,7 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
