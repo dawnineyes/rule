@@ -1,3 +1,4 @@
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
@@ -38,7 +39,6 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
