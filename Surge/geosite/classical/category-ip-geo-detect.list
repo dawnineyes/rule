@@ -1,4 +1,6 @@
 DOMAIN,checkip.amazonaws.com
+DOMAIN,ipv4-check-perf.radar.cloudflare.com
+DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,ipfind.io
 DOMAIN-SUFFIX,geojs.io
 DOMAIN-SUFFIX,2ip.ua
