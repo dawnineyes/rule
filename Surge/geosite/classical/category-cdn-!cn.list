@@ -2,8 +2,12 @@ DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,cdnjs.com
-DOMAIN-SUFFIX,cdn77.com
-DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,quantil.com
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
@@ -25,8 +29,8 @@ DOMAIN-SUFFIX,llnw.com
 DOMAIN-SUFFIX,llnw.net
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
-DOMAIN-SUFFIX,stackpath.com
-DOMAIN-SUFFIX,stackpath.dev
+DOMAIN-SUFFIX,pagecdn.com
+DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net
@@ -96,6 +100,8 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cfargotunnel.com
@@ -150,12 +156,6 @@ DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,pagecdn.com
-DOMAIN-SUFFIX,pagecdn.io
-DOMAIN-SUFFIX,quantil.com
-DOMAIN-SUFFIX,vrcdn.cloud
-DOMAIN-SUFFIX,vrcdn.live
-DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,akamai.co.kr
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,accdn.com.cn

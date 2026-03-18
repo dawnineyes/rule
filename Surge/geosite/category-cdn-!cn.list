@@ -2,8 +2,12 @@
 .bunny.net
 .bunnycdn.com
 .cdnjs.com
-.cdn77.com
-.cdn77.org
+.quantil.com
+.stackpath.com
+.stackpath.dev
+.vrcdn.cloud
+.vrcdn.live
+.vrcdn.video
 .fastly-edge.com
 .fastly-terrarium.com
 .fastly.com
@@ -25,8 +29,8 @@
 .llnw.net
 .llnwd.net
 .llnwi.net
-.stackpath.com
-.stackpath.dev
+.pagecdn.com
+.pagecdn.io
 .ak1.net
 .aka-ai.com
 .aka-ai.net
@@ -96,6 +100,8 @@
 .iamakamai.net
 .soasta-dswb.com
 .srtcdn.net
+.cdn77.com
+.cdn77.org
 .argotunnel.com
 .browser.run
 .cfargotunnel.com
@@ -150,12 +156,6 @@
 .workers.dev
 .cf-ipfs.com
 .cloudflare-ipfs.com
-.pagecdn.com
-.pagecdn.io
-.quantil.com
-.vrcdn.cloud
-.vrcdn.live
-.vrcdn.video
 .akamai.co.kr
 .one.one.one
 .accdn.com.cn
