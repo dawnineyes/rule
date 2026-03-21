@@ -47,8 +47,8 @@ ipv6-check-perf.radar.cloudflare.com
 .ip-score.com
 .ip.me
 .ip.sb
-.2ip.io
-.ip2location.com
+.ip2c.org
+.ipgeolocation.io
 .ip2location.io
 .ip2ruscity.com
 .ip4.me
@@ -67,9 +67,9 @@ ipv6-check-perf.radar.cloudflare.com
 .ipchicken.com
 .ipdata.co
 .ipecho.net
-.ip2c.org
+.ipregistry.co
 .2ip.ru
-.realip.cc
+.ip2location.com
 .ipify.org
 .ipinfo.io
 .ipleak.net
@@ -80,7 +80,7 @@ ipv6-check-perf.radar.cloudflare.com
 .iplocation.net
 .ipqualityscore.com
 .ipquery.io
-.ipregistry.co
+.2ip.io
 .iproyal.com
 .ipstack.com
 .ipverify.com
@@ -99,7 +99,7 @@ ipv6-check-perf.radar.cloudflare.com
 .mylocation.org
 .osint.sh
 .proxycheck.io
-.ipgeolocation.io
+.realip.cc
 .seeip.org
 .showmyip.com
 .showmyipaddress.com
@@ -127,6 +127,7 @@ ipv6-check-perf.radar.cloudflare.com
 .wtfismyip.com
 .ipip.net
 .my.ipinfo.app
+.ip.hetzner.com
 .ip.mail.ru
 .ip.nic.ru
 .ip.tyk.nu

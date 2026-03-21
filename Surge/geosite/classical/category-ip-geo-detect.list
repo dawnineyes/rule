@@ -47,8 +47,8 @@ DOMAIN-SUFFIX,ip-check.info
 DOMAIN-SUFFIX,ip-score.com
 DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,2ip.io
-DOMAIN-SUFFIX,ip2location.com
+DOMAIN-SUFFIX,ip2c.org
+DOMAIN-SUFFIX,ipgeolocation.io
 DOMAIN-SUFFIX,ip2location.io
 DOMAIN-SUFFIX,ip2ruscity.com
 DOMAIN-SUFFIX,ip4.me
@@ -67,9 +67,9 @@ DOMAIN-SUFFIX,ipcalf.com
 DOMAIN-SUFFIX,ipchicken.com
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ipecho.net
-DOMAIN-SUFFIX,ip2c.org
+DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,realip.cc
+DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipleak.net
@@ -80,7 +80,7 @@ DOMAIN-SUFFIX,iplocation.io
 DOMAIN-SUFFIX,iplocation.net
 DOMAIN-SUFFIX,ipqualityscore.com
 DOMAIN-SUFFIX,ipquery.io
-DOMAIN-SUFFIX,ipregistry.co
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,iproyal.com
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,ipverify.com
@@ -99,7 +99,7 @@ DOMAIN-SUFFIX,myiplookup.com
 DOMAIN-SUFFIX,mylocation.org
 DOMAIN-SUFFIX,osint.sh
 DOMAIN-SUFFIX,proxycheck.io
-DOMAIN-SUFFIX,ipgeolocation.io
+DOMAIN-SUFFIX,realip.cc
 DOMAIN-SUFFIX,seeip.org
 DOMAIN-SUFFIX,showmyip.com
 DOMAIN-SUFFIX,showmyipaddress.com
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,wieistmeineip.de
 DOMAIN-SUFFIX,wtfismyip.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,my.ipinfo.app
+DOMAIN-SUFFIX,ip.hetzner.com
 DOMAIN-SUFFIX,ip.mail.ru
 DOMAIN-SUFFIX,ip.nic.ru
 DOMAIN-SUFFIX,ip.tyk.nu
