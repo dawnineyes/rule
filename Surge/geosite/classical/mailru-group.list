@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,tamtam.chat
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,dzeninfra.ru
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,ok.ru
@@ -50,5 +52,3 @@ DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
 DOMAIN-SUFFIX,vkuservideo.ru
 DOMAIN-SUFFIX,vkvideo.ru
-DOMAIN-SUFFIX,dzen.ru
-DOMAIN-SUFFIX,dzeninfra.ru
