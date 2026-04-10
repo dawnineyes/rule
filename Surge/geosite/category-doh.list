@@ -9,15 +9,9 @@ dns.bebasid.com
 antivirus.bebasid.com
 internetsehat.bebasid.com
 dns.cfiec.net
-doh.opendns.com
-doh.familyshield.opendns.com
-doh.sandbox.opendns.com
 doh.cleanbrowsing.org
 one.one.one.one
 dns.cloudflare.com
-cloudflare-dns.com
-security.cloudflare-dns.com
-family.cloudflare-dns.com
 freedns.controld.com
 dns.decloudus.com
 futuredns.eu.org
@@ -56,8 +50,6 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 family.dns.mullvad.net
 all.dns.mullvad.net
-dns.nextdns.io
-anycast.dns.nextdns.io
 ada.openbld.net
 ric.openbld.net
 dns.quad9.net
@@ -122,3 +114,6 @@ kids.ns.nwps.fi
 frd4wvnobp.cloudflare-gateway.com
 dnsguard.pub
 doh.18bit.cn
+.opendns.com
+.cloudflare-dns.com
+.nextdns.io
