@@ -4,7 +4,7 @@ checkip.dyn.com
 ip.comss.net
 ipv4-check-perf.radar.cloudflare.com
 ipv6-check-perf.radar.cloudflare.com
-.ipgeolocation.io
+.ipfinder.io
 .checkip.org
 .2ip.ua
 .51degrees.com
@@ -13,7 +13,7 @@ ipv6-check-perf.radar.cloudflare.com
 .apivoid.com
 .bigdatacloud.net
 .check-host.net
-.ipify.org
+.ipgeolocation.io
 .checkip.ru
 .country.is
 .curlmyip.net
@@ -23,13 +23,13 @@ ipv6-check-perf.radar.cloudflare.com
 .find-my-ip.com
 .find-my-ip.net
 .findip.net
-.flagfox.net
+.ipify.org
 .fraudguard.io
 .fraudlogix.com
 .freegeoip.app
 .freeipapi.com
 .geodatatool.com
-.2ip.io
+.geojs.io
 .geolocation-db.com
 .geoplugin.com
 .geoplugin.net
@@ -41,6 +41,7 @@ ipv6-check-perf.radar.cloudflare.com
 .ident.me
 .ifconfig.co
 .ifconfig.es
+.ifconfig.io
 .ifconfig.me
 .ip-adress.com
 .ip-api.com
@@ -60,7 +61,7 @@ ipv6-check-perf.radar.cloudflare.com
 .ip8.com
 .ipaddr.site
 .ipaddress.com
-.ipaddress.my
+.2ip.io
 .ipaddress.sh
 .ipapi.co
 .ipapi.com
@@ -71,10 +72,10 @@ ipv6-check-perf.radar.cloudflare.com
 .ipdata.co
 .ipecho.net
 .ipfind.io
-.ipfinder.io
-.geojs.io
+.ipaddress.my
 .2ip.ru
-.myipaddress.com
+.flagfox.net
+.ipinfo.io
 .ipleak.net
 .ipligence.com
 .iplocate.io
@@ -98,7 +99,7 @@ ipv6-check-perf.radar.cloudflare.com
 .myip.ms
 .myip.ru
 .myip.wtf
-.ipinfo.io
+.myipaddress.com
 .myiplookup.com
 .mylocation.org
 .nodedata.io
