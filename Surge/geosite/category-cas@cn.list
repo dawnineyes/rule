@@ -23,7 +23,9 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
-www.microsoft.com
+.yahoo.cn
+.yahoo.com.cn
+.sslcom.cn
 .alphassl.com
 .easy-signing.com
 .globalsign.cn
@@ -31,6 +33,4 @@ www.microsoft.com
 .globalsigncdn.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 crl.globalsign.net
-.sslcom.cn
-.yahoo.cn
-.yahoo.com.cn
+www.microsoft.com

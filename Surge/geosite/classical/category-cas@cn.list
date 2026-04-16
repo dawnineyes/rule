@@ -23,7 +23,9 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN,www.microsoft.com
+DOMAIN-SUFFIX,yahoo.cn
+DOMAIN-SUFFIX,yahoo.com.cn
+DOMAIN-SUFFIX,sslcom.cn
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,globalsign.cn
@@ -31,6 +33,4 @@ DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.globalsign.net
-DOMAIN-SUFFIX,sslcom.cn
-DOMAIN-SUFFIX,yahoo.cn
-DOMAIN-SUFFIX,yahoo.com.cn
+DOMAIN,www.microsoft.com
