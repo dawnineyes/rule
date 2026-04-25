@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,analytics.vk.com
 DOMAIN-SUFFIX,ms.vk.com
@@ -18,4 +19,3 @@ DOMAIN,target.vk.com
 DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
-DOMAIN-SUFFIX,ads-twitter.com
