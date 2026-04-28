@@ -1,5 +1,5 @@
-prodforza.blob.core.windows.net
 flightsimulator.azureedge.net
+prodforza.blob.core.windows.net
 .xbox
 .gamepass.com
 .orithegame.com
@@ -24,10 +24,6 @@ flightsimulator.azureedge.net
 .xboxservices.com
 .xboxstudios.com
 .xbx.lv
-.forza.net
-.forzamotorsport.net
-.forzaracingchampionship.com
-.forzarc.com
 .callersbane.com
 .minecraft-services.net
 .minecraft.net
@@ -42,4 +38,8 @@ flightsimulator.azureedge.net
 .bethsoft.com
 .doom.com
 .elderscrolls.com
+.forza.net
+.forzamotorsport.net
+.forzaracingchampionship.com
+.forzarc.com
 .xboxlive.cn
