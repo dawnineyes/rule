@@ -1,3 +1,7 @@
+.sslcom.cn
+.dcocsp.cn
+.digicert.cn
+www.microsoft.com
 certs-lb.apple.com.akadns.net
 certs.apple.com
 crl-lb.apple.com.akadns.net
@@ -8,7 +12,11 @@ ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
 valid.origin-apple.com.akadns.net
-.sslcom.cn
+.oemssl.cn
+.oemssl.cn.cdn.cloudflare.net
+.sectigochina.com
+.sectigochina.com.cdn.cloudflare.net
+.trust-provider.cn
 .yahoo.cn
 .yahoo.com.cn
 pki-goog.l.google.com
@@ -18,8 +26,7 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
-.dcocsp.cn
-.digicert.cn
+www.entrust.cn
 .alphassl.com
 .easy-signing.com
 .globalsign.cn
@@ -27,10 +34,3 @@ ocsp.pki.goog
 .globalsigncdn.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 crl.globalsign.net
-.oemssl.cn
-.oemssl.cn.cdn.cloudflare.net
-.sectigochina.com
-.sectigochina.com.cdn.cloudflare.net
-.trust-provider.cn
-www.entrust.cn
-www.microsoft.com
