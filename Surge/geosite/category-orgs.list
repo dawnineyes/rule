@@ -22,10 +22,6 @@ spectator.ppy.sh
 .who.int
 .wi-fi.org
 .wto.org
-.ccstatic.org
-.creativecommons.org
-.creativecommons.engineering
-.licensebuttons.net
 .ieee.org
 .ieee.tv
 .tryengineering.org
@@ -91,9 +87,10 @@ spectator.ppy.sh
 .osmfoundation.org
 .stateofthemap.com
 .stateofthemap.org
-.paskoocheh.com
-.rolfoundation.org
-.rolsociety.org
+.ccstatic.org
+.creativecommons.org
+.creativecommons.engineering
+.licensebuttons.net
 .csis.org
 .emojipedia.org
 .worldemojiawards.com
@@ -119,6 +116,8 @@ spectator.ppy.sh
 .grapheneos.social
 .seamlessupdate.app
 .vanadium.app
+.paskoocheh.com
+.ppy.sh
 .acousticbrainz.org
 .bookbrainz.org
 .coverartarchive.org
@@ -127,4 +126,5 @@ spectator.ppy.sh
 .messybrainz.org
 .metabrainz.org
 .musicbrainz.org
-.ppy.sh
+.rolfoundation.org
+.rolsociety.org
