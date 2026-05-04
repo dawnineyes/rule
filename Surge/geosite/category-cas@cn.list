@@ -1,11 +1,4 @@
 www.entrust.cn
-.alphassl.com
-.easy-signing.com
-.globalsign.cn
-.globalsign.com
-.globalsigncdn.com
-cdn.globalsigncdn.com.cdn.cloudflare.net
-crl.globalsign.net
 .dcocsp.cn
 .digicert.cn
 .oemssl.cn
@@ -13,7 +6,7 @@ crl.globalsign.net
 .sectigochina.com
 .sectigochina.com.cdn.cloudflare.net
 .trust-provider.cn
-.sslcom.cn
+www.microsoft.com
 certs-lb.apple.com.akadns.net
 certs.apple.com
 crl-lb.apple.com.akadns.net
@@ -33,4 +26,11 @@ crls.pki.goog
 ocsp.pki.goog
 .yahoo.cn
 .yahoo.com.cn
-www.microsoft.com
+.sslcom.cn
+.alphassl.com
+.easy-signing.com
+.globalsign.cn
+.globalsign.com
+.globalsigncdn.com
+cdn.globalsigncdn.com.cdn.cloudflare.net
+crl.globalsign.net
