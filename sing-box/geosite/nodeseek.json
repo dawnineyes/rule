@@ -1,0 +1,17 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [],
+      "domain_suffix": [
+        "nodeseek.com",
+        "i.111666.best",
+        "deepflood.com",
+        "22112211.xyz",
+        "nodeimage.com"
+      ],
+      "domain_keyword": [],
+      "domain_regex": []
+    }
+  ]
+}
