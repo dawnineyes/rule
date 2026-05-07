@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
