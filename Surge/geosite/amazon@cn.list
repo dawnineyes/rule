@@ -22,11 +22,6 @@
 .z.cn
 images-cn.ssl-images-amazon.com
 images-cn-8.ssl-images-amazon.com
-.kindle.cn
-.kindleoasis.cn
-.kindleoasis.com.cn
-.amazonprimevideo.cn
-.amazonprimevideo.com.cn
 .a2z.org.cn
 .amazonaws.cn
 .amazonaws.com.cn
@@ -52,3 +47,8 @@ images-cn-8.ssl-images-amazon.com
 .amzndns-cn.cn
 .amzndns-cn.com
 .amzndns-cn.net
+.kindle.cn
+.kindleoasis.cn
+.kindleoasis.com.cn
+.amazonprimevideo.cn
+.amazonprimevideo.com.cn
