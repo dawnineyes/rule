@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,tencentelasticsearch.com
+DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,qcloudmarket.com
 DOMAIN-SUFFIX,acimg.cn
 DOMAIN-SUFFIX,apcdns.net
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,wxlivecdn.com
@@ -155,7 +156,7 @@ DOMAIN-SUFFIX,qclouder.com
 DOMAIN-SUFFIX,qcloudgme.com
 DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,qcloudipv6.com
-DOMAIN-SUFFIX,tencentid.com
+DOMAIN-SUFFIX,tencentelasticsearch.com
 DOMAIN-SUFFIX,qcloudns.com
 DOMAIN-SUFFIX,qcloudsmartiot.com
 DOMAIN-SUFFIX,qcloudtcic.com
@@ -233,10 +234,10 @@ DOMAIN-SUFFIX,tencentdb.com
 DOMAIN-SUFFIX,tencentdevices.com
 DOMAIN-SUFFIX,tencentdigitalassistant.com
 DOMAIN-SUFFIX,tencentdms.com
-DOMAIN-SUFFIX,tencenteiam.com
-DOMAIN-SUFFIX,tdnsv5.com
+DOMAIN-SUFFIX,txbyod.com
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
-DOMAIN-SUFFIX,texasholdemcup.cn
+DOMAIN-SUFFIX,supercellsupport.cn
+DOMAIN-SUFFIX,tencentidentity.com
 DOMAIN-SUFFIX,tencentproxy.com
 DOMAIN-SUFFIX,tencentrio.com
 DOMAIN-SUFFIX,tencenttid.com
@@ -260,7 +261,7 @@ DOMAIN-SUFFIX,tourismshow.cn
 DOMAIN-SUFFIX,tourismuser.cn
 DOMAIN-SUFFIX,tsparkling.com
 DOMAIN-SUFFIX,tx-exhibition.com
-DOMAIN-SUFFIX,txbyod.com
+DOMAIN-SUFFIX,tencenteiam.com
 DOMAIN-SUFFIX,txidc.wang
 DOMAIN-SUFFIX,txlivecdn.com
 DOMAIN-SUFFIX,txtyxg.com
@@ -294,7 +295,7 @@ DOMAIN-SUFFIX,tdnsv1.com
 DOMAIN-SUFFIX,tdnsv2.com
 DOMAIN-SUFFIX,tdnsv3.com
 DOMAIN-SUFFIX,tdnsv4.com
-DOMAIN-SUFFIX,qq.xn--fiqs8s
+DOMAIN-SUFFIX,tdnsv5.com
 DOMAIN-SUFFIX,tdnsv6.com
 DOMAIN-SUFFIX,tdnsv7.com
 DOMAIN-SUFFIX,tdnsv8.com
@@ -338,7 +339,6 @@ DOMAIN-SUFFIX,ma.run
 DOMAIN-SUFFIX,m1.run
 DOMAIN-SUFFIX,m6.run
 DOMAIN-SUFFIX,m9.run
-DOMAIN-SUFFIX,supercellsupport.cn
 DOMAIN-SUFFIX,supercellcommunity.cn
 DOMAIN-SUFFIX,scsentry.cn
 DOMAIN-SUFFIX,scid.cn
@@ -346,6 +346,7 @@ DOMAIN-SUFFIX,scescdn.cn
 DOMAIN-SUFFIX,sccreators.cn
 DOMAIN-SUFFIX,sccreator.cn
 DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,haydaypop.cn
 DOMAIN-SUFFIX,brawlstars.cn
 DOMAIN-SUFFIX,codm.com
@@ -412,7 +413,7 @@ DOMAIN-SUFFIX,skydweller.cn
 DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,tencent-gcloud.com
 DOMAIN-SUFFIX,tencentstart.com
-DOMAIN-SUFFIX,tencentidentity.com
+DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
 DOMAIN-SUFFIX,timibase.com
@@ -436,17 +437,17 @@ DOMAIN-SUFFIX,oracle-tencent.net.cn
 DOMAIN-SUFFIX,foxmail.com.cn
 DOMAIN-SUFFIX,gtimg.com.cn
 DOMAIN-SUFFIX,qq.cn.com
-DOMAIN-SUFFIX,testjrzk.net.cn
-DOMAIN-SUFFIX,ectencent.com.cn
+DOMAIN-SUFFIX,jrzk.net.cn
+DOMAIN-SUFFIX,tencentcos.com.cn
 DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,timatrix.com.cn
 DOMAIN-SUFFIX,dnspod.com.cn
+DOMAIN-SUFFIX,ectencent.com.cn
 DOMAIN-SUFFIX,qcloudcos.com.cn
-DOMAIN-SUFFIX,jrzk.net.cn
 DOMAIN-SUFFIX,dnsv1.com.cn
 DOMAIN-SUFFIX,yufuid.com.cn
 DOMAIN-SUFFIX,rtx.com.cn
-DOMAIN-SUFFIX,tencentcos.com.cn
+DOMAIN-SUFFIX,testjrzk.net.cn
 DOMAIN-SUFFIX,tencentcdb.com.cn
 DOMAIN-SUFFIX,werepository.com.cn
 DOMAIN-SUFFIX,wegame.com.cn

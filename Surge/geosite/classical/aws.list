@@ -50,6 +50,7 @@ DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com.cn

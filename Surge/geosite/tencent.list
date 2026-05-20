@@ -1,4 +1,4 @@
-.tencentelasticsearch.com
+.tencentid.com
 .qcloudmarket.com
 .acimg.cn
 .apcdns.net
@@ -32,6 +32,7 @@
 .wechat.com
 .wechatpay.cn
 .weiyun.com
+.wxaurl.cn
 .wxcloudrun.com
 .wxgateway.com
 .wxlivecdn.com
@@ -155,7 +156,7 @@
 .qcloudgme.com
 .qcloudimg.com
 .qcloudipv6.com
-.tencentid.com
+.tencentelasticsearch.com
 .qcloudns.com
 .qcloudsmartiot.com
 .qcloudtcic.com
@@ -233,10 +234,10 @@
 .tencentdevices.com
 .tencentdigitalassistant.com
 .tencentdms.com
-.tencenteiam.com
-.tdnsv5.com
+.txbyod.com
 .xn--r70as2s.xn--fiqs8s
-.texasholdemcup.cn
+.supercellsupport.cn
+.tencentidentity.com
 .tencentproxy.com
 .tencentrio.com
 .tencenttid.com
@@ -260,7 +261,7 @@
 .tourismuser.cn
 .tsparkling.com
 .tx-exhibition.com
-.txbyod.com
+.tencenteiam.com
 .txidc.wang
 .txlivecdn.com
 .txtyxg.com
@@ -294,7 +295,7 @@
 .tdnsv2.com
 .tdnsv3.com
 .tdnsv4.com
-.qq.xn--fiqs8s
+.tdnsv5.com
 .tdnsv6.com
 .tdnsv7.com
 .tdnsv8.com
@@ -338,7 +339,6 @@
 .m1.run
 .m6.run
 .m9.run
-.supercellsupport.cn
 .supercellcommunity.cn
 .scsentry.cn
 .scid.cn
@@ -346,6 +346,7 @@
 .sccreators.cn
 .sccreator.cn
 .labycore.cn
+.qq.xn--fiqs8s
 .haydaypop.cn
 .brawlstars.cn
 .codm.com
@@ -412,7 +413,7 @@
 .syxlgame.com
 .tencent-gcloud.com
 .tencentstart.com
-.tencentidentity.com
+.texasholdemcup.cn
 .texasholdemcup.com
 .texasholdemcup.net
 .timibase.com
@@ -436,17 +437,17 @@
 .foxmail.com.cn
 .gtimg.com.cn
 .qq.cn.com
-.testjrzk.net.cn
-.ectencent.com.cn
+.jrzk.net.cn
+.tencentcos.com.cn
 .qq.com.cn
 .timatrix.com.cn
 .dnspod.com.cn
+.ectencent.com.cn
 .qcloudcos.com.cn
-.jrzk.net.cn
 .dnsv1.com.cn
 .yufuid.com.cn
 .rtx.com.cn
-.tencentcos.com.cn
+.testjrzk.net.cn
 .tencentcdb.com.cn
 .werepository.com.cn
 .wegame.com.cn

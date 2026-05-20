@@ -1,3 +1,4 @@
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -7,7 +8,6 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
+DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
@@ -48,7 +49,6 @@ DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,ccstatic.org
@@ -63,10 +63,6 @@ DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,fdroid.org
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,ppy.sh
-DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ieee.tv
 DOMAIN-SUFFIX,tryengineering.org
@@ -129,3 +125,7 @@ DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,ppy.sh
