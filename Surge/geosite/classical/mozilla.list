@@ -20,3 +20,7 @@ DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,mdn.allizom.net
 DOMAIN-SUFFIX,mdn.mozit.cloud
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
