@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,atanx2.alicdn.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,tce.alicdn.com
+DOMAIN-SUFFIX,adashx.ut.ele.me
+DOMAIN-SUFFIX,h-adashx.ut.ele.me
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,aaid.umeng.com
@@ -82,6 +85,3 @@ DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
-DOMAIN-SUFFIX,adashx.ut.ele.me
-DOMAIN-SUFFIX,h-adashx.ut.ele.me
-DOMAIN-SUFFIX,v6-adashx.ut.ele.me
