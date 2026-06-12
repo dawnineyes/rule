@@ -4,10 +4,13 @@
 .googlecnapps.cn
 .gstatic.cn
 .gstaticcnapps.cn
+.265.com
 .gvt1-cn.com
 .gvt2-cn.com
+recaptcha-cn.net
+recaptcha.net
+www.recaptcha-cn.net
 www.recaptcha.net
-265.com
 2mdn-cn.net
 2mdn.net
 admob-cn.com
@@ -32,7 +35,6 @@ clickserver.googleads.com
 clientservices.googleapis.com
 cn.widevine.com
 connectivitycheck.gstatic.com
-crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 dartsearch-cn.net
 dg-meta.video.google.com
@@ -81,8 +83,6 @@ prod-databe.floonet.goog
 prod.databe.floonet.goog
 qiao-cn.com
 qpx.googleflights.net
-recaptcha-cn.net
-recaptcha.net
 redirector.bdn.dev
 redirector.c.chat.google.com
 redirector.c.mail.google.com
@@ -103,7 +103,6 @@ staging-databe.floonet.goog
 staging.databe.floonet.goog
 tac.googleapis.com
 tools.google.com
-update.crashlytics.com
 update.googleapis.com
 wear.googleapis.com
 www-google-analytics.l.google.com
@@ -111,6 +110,10 @@ www-googletagmanager.l.google.com
 www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+update.crashlytics.com
+redirector.c.play.google.com
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -119,5 +122,3 @@ crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
 .ggpht.cn
-firebase-settings.crashlytics.com
-redirector.c.play.google.com
