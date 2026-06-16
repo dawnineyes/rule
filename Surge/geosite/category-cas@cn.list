@@ -1,6 +1,4 @@
-.dcocsp.cn
-.digicert.cn
-.sslcom.cn
+www.microsoft.com
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -8,12 +6,13 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
-www.microsoft.com
 .oemssl.cn
 .oemssl.cn.cdn.cloudflare.net
 .sectigochina.com
 .sectigochina.com.cdn.cloudflare.net
 .trust-provider.cn
+.dcocsp.cn
+.digicert.cn
 .alphassl.com
 .easy-signing.com
 .globalsign.cn
@@ -21,6 +20,7 @@ www.microsoft.com
 .globalsigncdn.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 crl.globalsign.net
+.sslcom.cn
 certs-lb.apple.com.akadns.net
 certs.apple.com
 crl-lb.apple.com.akadns.net
