@@ -1,6 +1,5 @@
-crashlyticsreports-pa.googleapis.com
-firebase-settings.crashlytics.com
-update.crashlytics.com
+.cdn.jetbrains.com
+.download-cdn.jetbrains.com.cn
 .microsoftreactor.cn
 .microsoftreactor.com.cn
 .reactorms.com.cn
@@ -8,6 +7,7 @@ update.crashlytics.com
 .researchkit.com.cn
 .swiftui.cn
 .swiftui.com.cn
-.cdn.jetbrains.com
-.download-cdn.jetbrains.com.cn
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+update.crashlytics.com
 cdn.ampproject.org
