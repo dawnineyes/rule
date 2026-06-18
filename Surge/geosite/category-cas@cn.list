@@ -13,7 +13,9 @@ valid.origin-apple.com.akadns.net
 .globalsigncdn.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 crl.globalsign.net
-www.entrust.cn
+www.microsoft.com
+.dcocsp.cn
+.digicert.cn
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -26,7 +28,5 @@ ocsp.pki.goog
 .sectigochina.com
 .sectigochina.com.cdn.cloudflare.net
 .trust-provider.cn
-www.microsoft.com
+www.entrust.cn
 .sslcom.cn
-.dcocsp.cn
-.digicert.cn

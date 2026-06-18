@@ -49,11 +49,12 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
+DOMAIN-SUFFIX,starbucks.com.cn
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,mcd.cn
 DOMAIN-SUFFIX,mcdchina.net
 DOMAIN-SUFFIX,mcdonalds.com.cn
-DOMAIN-SUFFIX,starbucks.com.cn
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
@@ -73,4 +74,3 @@ DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
