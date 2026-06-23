@@ -114,7 +114,6 @@ crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 update.crashlytics.com
 redirector.c.play.google.com
-.ggpht.cn
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -122,3 +121,4 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
+.ggpht.cn

@@ -1,8 +1,6 @@
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,update.crashlytics.com
-DOMAIN-SUFFIX,jetbrains.com.cn
-DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
@@ -11,3 +9,5 @@ DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,cdn.jetbrains.com
