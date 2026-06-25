@@ -84,6 +84,9 @@ DOMAIN,volic.download.prss.microsoft.com
 DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vz.download.prss.microsoft.com
 DOMAIN,windbg.download.prss.microsoft.com
+DOMAIN-SUFFIX,microsoftnews.cn
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -185,6 +188,3 @@ DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
-DOMAIN-SUFFIX,microsoftnews.cn
-DOMAIN-SUFFIX,msn.cn
-DOMAIN-SUFFIX,xboxlive.cn
