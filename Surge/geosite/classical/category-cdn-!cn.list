@@ -6,8 +6,6 @@ DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcore.pro
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,lldns.net
@@ -18,6 +16,7 @@ DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,pagecdn.com
 DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,vrcdn.cloud
@@ -92,6 +91,8 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
@@ -103,7 +104,6 @@ DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com

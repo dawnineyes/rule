@@ -6,8 +6,6 @@
 .gcdn.co
 .gcore.com
 .gcore.pro
-.imgix.com
-.imgix.net
 .delvenetworks.com
 .limelight.com
 .lldns.net
@@ -18,6 +16,7 @@
 .llnwi.net
 .pagecdn.com
 .pagecdn.io
+.quantil.com
 .stackpath.com
 .stackpath.dev
 .vrcdn.cloud
@@ -92,6 +91,8 @@
 .iamakamai.net
 .soasta-dswb.com
 .srtcdn.net
+.imgix.com
+.imgix.net
 .fastly-edge.com
 .fastly-terrarium.com
 .fastly.com
@@ -103,7 +104,6 @@
 .esm.run
 .jsdelivr.com
 .jsdelivr.net
-.quantil.com
 .cdn77.com
 .cdn77.org
 .argotunnel.com
