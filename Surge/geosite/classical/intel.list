@@ -1,5 +1,4 @@
-DOMAIN-SUFFIX,intel
-DOMAIN-SUFFIX,intel.yt
+DOMAIN-SUFFIX,intel.wf
 DOMAIN-SUFFIX,intel.gy
 DOMAIN-SUFFIX,intel.af
 DOMAIN-SUFFIX,intel.ag
@@ -46,7 +45,7 @@ DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,barefootnetworks.com
 DOMAIN-SUFFIX,xscale.com
 DOMAIN-SUFFIX,xn--ztsq84g.cn
-DOMAIN-SUFFIX,intel.ac
+DOMAIN-SUFFIX,intel.yt
 DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,vpro.net
 DOMAIN-SUFFIX,intel.dev
@@ -238,7 +237,7 @@ DOMAIN-SUFFIX,pmem.org
 DOMAIN-SUFFIX,pmem.us
 DOMAIN-SUFFIX,poweredbyintel.com
 DOMAIN-SUFFIX,projectcircuitbreaker.com
-DOMAIN-SUFFIX,intel.wf
+DOMAIN-SUFFIX,intel.ac
 DOMAIN-SUFFIX,reconjet.com
 DOMAIN-SUFFIX,researchintel.com
 DOMAIN-SUFFIX,saffrontech.com
