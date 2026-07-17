@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,cdnhwckbw08.cn
-DOMAIN-SUFFIX,hwcdnsre.cn
+DOMAIN-SUFFIX,myhuaweicloud-obs.cn
 DOMAIN-SUFFIX,b2bgo.com
 DOMAIN-SUFFIX,eduapaashwc.com
 DOMAIN-SUFFIX,functiongraph.run
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,huaweiapaas.com
 DOMAIN-SUFFIX,huaweicloud-dns.cn
 DOMAIN-SUFFIX,huaweicloud-dns.com
 DOMAIN-SUFFIX,huaweicloud-idme.cn
-DOMAIN-SUFFIX,cdnhwcjkl10.cn
+DOMAIN-SUFFIX,huaweicloud-idme.com
 DOMAIN-SUFFIX,huaweicloud-koophone.cn
 DOMAIN-SUFFIX,huaweicloud-koophone.com
 DOMAIN-SUFFIX,huaweicloud-smn.cn
@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,huaweiyun.cn
 DOMAIN-SUFFIX,huaweiyun.com
 DOMAIN-SUFFIX,hwastro.cn
 DOMAIN-SUFFIX,hwastro.com
-DOMAIN-SUFFIX,cdnhwcsjs09.cn
+DOMAIN-SUFFIX,hwcdnsre.cn
 DOMAIN-SUFFIX,hwcdnsre.com
 DOMAIN-SUFFIX,hwclouds-dns.cn
 DOMAIN-SUFFIX,hwclouds-dns.com
@@ -76,9 +76,9 @@ DOMAIN-SUFFIX,myhuaweicloud-custom.cn
 DOMAIN-SUFFIX,myhuaweicloud-custom.com
 DOMAIN-SUFFIX,myhuaweicloud-koodrive.cn
 DOMAIN-SUFFIX,myhuaweicloud-koodrive.com
-DOMAIN-SUFFIX,myhuaweicloud-obs.cn
+DOMAIN-SUFFIX,cdnhwcsjs09.cn
 DOMAIN-SUFFIX,myhuaweicloud-obs.com
-DOMAIN-SUFFIX,myhuaweicloud.cn
+DOMAIN-SUFFIX,cdnhwcjkl10.cn
 DOMAIN-SUFFIX,myhuaweicloud.com
 DOMAIN-SUFFIX,myhwcdn.cn
 DOMAIN-SUFFIX,myhwcdn.com
@@ -118,11 +118,11 @@ DOMAIN-SUFFIX,cdnhwcyxb02.cn
 DOMAIN-SUFFIX,cdnhwcywp03.cn
 DOMAIN-SUFFIX,cdnhwclkl04.cn
 DOMAIN-SUFFIX,cdnhwcjbj05.cn
-DOMAIN-SUFFIX,cdnhwconz06.cn
+DOMAIN-SUFFIX,aadcloud.cn
 DOMAIN-SUFFIX,cdnhwcgqa21.com
-DOMAIN-SUFFIX,lu1da.cn
+DOMAIN-SUFFIX,cdnhwconz06.cn
 DOMAIN-SUFFIX,aadcloud.com
-DOMAIN-SUFFIX,huaweicloud-idme.com
+DOMAIN-SUFFIX,myhuaweicloud.cn
 DOMAIN-SUFFIX,cdnhwctmz11.cn
 DOMAIN-SUFFIX,cdnhwcrpp12.cn
 DOMAIN-SUFFIX,cdnhwcpqh13.cn
@@ -216,7 +216,7 @@ DOMAIN-SUFFIX,tzygd.cn
 DOMAIN-SUFFIX,z95rr.cn
 DOMAIN-SUFFIX,3ili6.cn
 DOMAIN-SUFFIX,vo6z2.cn
-DOMAIN-SUFFIX,aadcloud.cn
+DOMAIN-SUFFIX,lu1da.cn
 DOMAIN-SUFFIX,ivwi3.cn
 DOMAIN-SUFFIX,7k2k1.cn
 DOMAIN-SUFFIX,cza84.cn

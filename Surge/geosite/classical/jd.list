@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,jcloudlb.net
-DOMAIN-SUFFIX,1huizhan.com
+DOMAIN-SUFFIX,cloud-wuhan.com
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buy.cn
 DOMAIN-SUFFIX,360buy.com
@@ -10,14 +10,14 @@ DOMAIN-SUFFIX,7fresh.com
 DOMAIN-SUFFIX,baitiao.com
 DOMAIN-SUFFIX,blackdragon.com
 DOMAIN-SUFFIX,caiyu.com
-DOMAIN-SUFFIX,jcloudlb.com
+DOMAIN-SUFFIX,chicalot.cn
 DOMAIN-SUFFIX,cloud-beijing.com
 DOMAIN-SUFFIX,cloud-hebi.com
 DOMAIN-SUFFIX,cloud-ningbo.com
 DOMAIN-SUFFIX,cloud-ordos.com
 DOMAIN-SUFFIX,cloud-shenzhen.com
 DOMAIN-SUFFIX,cloud-shiyan.com
-DOMAIN-SUFFIX,cloud-wuhan.com
+DOMAIN-SUFFIX,jcloudlb.com
 DOMAIN-SUFFIX,cloud-xian.com
 DOMAIN-SUFFIX,cloud-xm.com
 DOMAIN-SUFFIX,cloud-zhaoqing.com
@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,cloudchaozhou.com
 DOMAIN-SUFFIX,cloudchengde.com
 DOMAIN-SUFFIX,cloudchengdu.com
 DOMAIN-SUFFIX,cloudchuzhou.com
-DOMAIN-SUFFIX,cloudczs.com
+DOMAIN-SUFFIX,jcloudimg.net
 DOMAIN-SUFFIX,clouddalian.com
 DOMAIN-SUFFIX,clouddatong.com
 DOMAIN-SUFFIX,clouddongying.com
@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,cloudtongliang.com
 DOMAIN-SUFFIX,cloudweinan.com
 DOMAIN-SUFFIX,cloudxiangtan.com
 DOMAIN-SUFFIX,cloudxianyou.com
-DOMAIN-SUFFIX,jcloudimg.net
+DOMAIN-SUFFIX,cloudxining.com
 DOMAIN-SUFFIX,cloudyanan.com
 DOMAIN-SUFFIX,cloudyancheng.com
 DOMAIN-SUFFIX,cloudyantai.com
@@ -110,9 +110,9 @@ DOMAIN-SUFFIX,jcloudedge.net
 DOMAIN-SUFFIX,jcloudgslb.com
 DOMAIN-SUFFIX,jcloudgslb.net
 DOMAIN-SUFFIX,jcloudimg.com
-DOMAIN-SUFFIX,cloudxining.com
+DOMAIN-SUFFIX,cloudczs.com
 DOMAIN-SUFFIX,3.cn
-DOMAIN-SUFFIX,chicalot.cn
+DOMAIN-SUFFIX,toplife.com
 DOMAIN-SUFFIX,jcloudlive.com
 DOMAIN-SUFFIX,jcloudlv.com
 DOMAIN-SUFFIX,jcloudoss.com
@@ -209,7 +209,7 @@ DOMAIN-SUFFIX,prestodb-china.com
 DOMAIN-SUFFIX,qianxun.com
 DOMAIN-SUFFIX,qingzhouip.com
 DOMAIN-SUFFIX,sgsic.com
-DOMAIN-SUFFIX,toplife.com
+DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,vg.com
 DOMAIN-SUFFIX,vipmro.com
 DOMAIN-SUFFIX,vipmro.net
