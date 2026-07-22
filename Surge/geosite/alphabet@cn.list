@@ -110,7 +110,9 @@ www-googletagmanager.l.google.com
 www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
-.ggpht.cn
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+update.crashlytics.com
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -118,7 +120,5 @@ o.pki.goog
 crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
-crashlyticsreports-pa.googleapis.com
-firebase-settings.crashlytics.com
-update.crashlytics.com
+.ggpht.cn
 redirector.c.play.google.com
