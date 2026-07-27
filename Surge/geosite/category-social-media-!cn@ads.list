@@ -1,4 +1,6 @@
 .ads-twitter.com
+.graph.instagram.com
+.graph-fallback.instagram.com
 .adv.vk.com
 .analytics.vk.com
 .ms.vk.com
@@ -17,5 +19,3 @@ target.vk.com
 .analytics.facebook.com
 .facebookads.com
 .pixel.facebook.com
-.graph.instagram.com
-.graph-fallback.instagram.com
