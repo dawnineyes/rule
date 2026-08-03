@@ -111,6 +111,9 @@ www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
 redirector.c.play.google.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+update.crashlytics.com
 pki-goog.l.google.com
 c.pki.goog
 i.pki.goog
@@ -119,6 +122,3 @@ crl.pki.goog
 crls.pki.goog
 ocsp.pki.goog
 .ggpht.cn
-crashlyticsreports-pa.googleapis.com
-firebase-settings.crashlytics.com
-update.crashlytics.com
