@@ -172,6 +172,8 @@ DOMAIN-SUFFIX,vkplay.ru
 DOMAIN-SUFFIX,vkplay.live
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,dzeninfra.ru
 DOMAIN-SUFFIX,odnoklassniki.eu
 DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odkl.ru
@@ -225,8 +227,6 @@ DOMAIN-SUFFIX,vkpay.app
 DOMAIN-SUFFIX,vkpay.com
 DOMAIN-SUFFIX,vkpay.io
 DOMAIN-SUFFIX,vkpay.ru
-DOMAIN-SUFFIX,dzen.ru
-DOMAIN-SUFFIX,dzeninfra.ru
 DOMAIN-SUFFIX,odnoklassniki.co.ee
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ads.viqeo.tv
@@ -281,6 +281,8 @@ DOMAIN,t.mail.ru
 DOMAIN,top-staging.mail.ru
 DOMAIN,whiteline.mail.ru
 DOMAIN,xray.mail.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,analytics.vk.com
 DOMAIN-SUFFIX,ms.vk.com
@@ -296,5 +298,3 @@ DOMAIN,advk.vk.ru
 DOMAIN,analytics.vk.ru
 DOMAIN,stats.vk-portal.net
 DOMAIN,target.vk.com
-DOMAIN-SUFFIX,log.dzen.ru
-DOMAIN-SUFFIX,ms.dzen.ru
