@@ -12,10 +12,8 @@ DOMAIN-SUFFIX,bejewled-stars.com
 DOMAIN-SUFFIX,bejeweledstars.com
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,chillingo.com
-DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
 DOMAIN-SUFFIX,crysis.jp
-DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,dawngatechronicles.com
 DOMAIN-SUFFIX,dicela.com
 DOMAIN-SUFFIX,dicela.net
@@ -54,15 +52,11 @@ DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
 DOMAIN-SUFFIX,popcap.com
-DOMAIN-SUFFIX,projectapex.com
-DOMAIN-SUFFIX,pvzheroes.com
-DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,speedhunters.com
 DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,ssx3.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com
-DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,tnt-ea.com
 DOMAIN-SUFFIX,ultimaforever.com
@@ -73,6 +67,7 @@ DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
+DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,battlefield.com
 DOMAIN-SUFFIX,battlefield1943.com
 DOMAIN-SUFFIX,battlefield3.com
@@ -86,6 +81,8 @@ DOMAIN-SUFFIX,biowarestore.com
 DOMAIN-SUFFIX,eamythic.com
 DOMAIN-SUFFIX,eamythic.net
 DOMAIN-SUFFIX,cncrivals.com
+DOMAIN-SUFFIX,commandandconquer.com
+DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,camelot-europe.com
 DOMAIN-SUFFIX,camelotherald.com
 DOMAIN-SUFFIX,camelotherald.net
@@ -133,10 +130,12 @@ DOMAIN-SUFFIX,nfsworld.com
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,plantsvszombies2.com
 DOMAIN-SUFFIX,pvzgw2.com
+DOMAIN-SUFFIX,pvzheroes.com
 DOMAIN-SUFFIX,seaofsolitude.com
 DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,skate2.com
+DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,starwarsfallenorder.com
 DOMAIN-SUFFIX,starwarsjedifallenorder.com
 DOMAIN-SUFFIX,starwarstheoldrepublic.com
@@ -157,6 +156,7 @@ DOMAIN-SUFFIX,ultimaonline.com
 DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,xdsummit.com
+DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,origin.com

@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,att-rsvp.com
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,att.jobs
 DOMAIN-SUFFIX,att.net
-DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,attalascom.com
 DOMAIN-SUFFIX,attbelieves.com
 DOMAIN-SUFFIX,attbusiness.net
@@ -29,7 +28,6 @@ DOMAIN-SUFFIX,attspecial.com
 DOMAIN-SUFFIX,attssl.com
 DOMAIN-SUFFIX,attstadium.com
 DOMAIN-SUFFIX,attsuppliers.com
-DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
@@ -47,7 +45,6 @@ DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,mymmode.com
 DOMAIN-SUFFIX,naturalvoices.com
-DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,openapiplatform.com
 DOMAIN-SUFFIX,openapiservice.com
 DOMAIN-SUFFIX,patentgold.net
@@ -129,5 +126,10 @@ DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,redzonechannel.com
 DOMAIN-SUFFIX,txdirectv.com
 DOMAIN-SUFFIX,xandr.com
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,att.cn
 DOMAIN-SUFFIX,attcorp.cn
