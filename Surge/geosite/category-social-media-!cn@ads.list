@@ -1,5 +1,3 @@
-.graph.instagram.com
-.graph-fallback.instagram.com
 .analytics.facebook.com
 .facebookads.com
 .pixel.facebook.com
@@ -19,3 +17,5 @@ advk.vk.ru
 analytics.vk.ru
 stats.vk-portal.net
 target.vk.com
+.graph.instagram.com
+.graph-fallback.instagram.com
