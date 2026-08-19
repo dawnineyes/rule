@@ -11,6 +11,14 @@ DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,ksyungslb.com
+DOMAIN-SUFFIX,seasungames.cn
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
+DOMAIN-SUFFIX,xishanju.com
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
+DOMAIN-SUFFIX,cbjq.com
+DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,wps.com
 DOMAIN-SUFFIX,wpscdn.cn
@@ -33,11 +41,3 @@ DOMAIN-SUFFIX,duba.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ijinshan.com
 DOMAIN-SUFFIX,keniu.com
-DOMAIN-SUFFIX,seasungames.cn
-DOMAIN-SUFFIX,seasungames.com
-DOMAIN-SUFFIX,seasunwbl.com
-DOMAIN-SUFFIX,xishanju.com
-DOMAIN-SUFFIX,xoyo.com
-DOMAIN-SUFFIX,xoyocdn.com
-DOMAIN-SUFFIX,cbjq.com
-DOMAIN-SUFFIX,testplus.cn
