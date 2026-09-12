@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [],
+      "domain_suffix": [
+        "jddebug.com",
+        "tagtic.cn",
+        "sdk.appadhoc.com",
+        "xxxh.de",
+        "edge.mountaintoys.cn",
+        "h2.smtcdns.net",
+        "mcdn.bilivideo.cn",
+        "mcdn.bilivideo.com",
+        "szbdyd.com"
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": []
+    }
+  ]
+}
