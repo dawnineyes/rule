@@ -9,11 +9,13 @@
         "sdk.appadhoc.com",
         "xxxh.de",
         "mountaintoys.cn",
-        "h2.smtcdns.net",
+        "smtcdns.net",
         "mcdn.bilivideo.cn",
         "mcdn.bilivideo.com",
         "mcdn.bilivideo.net",
-        "szbdyd.com"
+        "szbdyd.com",
+       	"ios.prod.cloud.netflix.com",
+	      "ios.ngp.prod.cloud.netflix.com"
       ],
       "domain_keyword": [],
       "domain_regex": [],

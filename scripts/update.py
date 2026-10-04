@@ -43,6 +43,16 @@ GEOIP2_CN_URL = (
     "https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/refs/heads/release/"
     "CN-ip-cidr.txt"
 )
+GEOIP_CN_MISAKAIO_URL = (
+    "https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt"
+)
+GEOIP_CN_METOWOLF_URL = "https://metowolf.github.io/iplist/data/special/china.txt"
+GEOIP_CN4_URL = (
+    "https://github.com/gaoyifan/china-operator-ip/raw/refs/heads/ip-lists/china.txt"
+)
+GEOIP_CN6_URL = (
+    "https://github.com/gaoyifan/china-operator-ip/raw/refs/heads/ip-lists/china6.txt"
+)
 ADGUARD_FILTER_LIST_URL = (
     "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/refs/heads/"
     "master/blocklist"
@@ -184,28 +194,20 @@ def update_geosite_cn() -> None:
     print(f"[完成] geosite/cn2.json，共 {len(domains)} 条")
 
 
-def update_telegram_cidr() -> None:
-    print("[生成] geoip/telegram.json")
-    content = http_get_text(TELEGRAM_CIDR_URL)
-    cidrs = [line.strip() for line in content.splitlines() if line.strip() and not line.startswith("#")]
+def update_geoip(name: str, url: str) -> None:
+    print(f"[生成] geoip/{name}.json")
+    content = http_get_text(url)
+    cidrs = [
+        line.strip()
+        for line in content.splitlines()
+        if line.strip() and not line.startswith("#")
+    ]
     data = {
         "version": 3,
         "rules": [{"ip_cidr": cidrs}],
     }
-    write_json(RULES_DIR / "geoip" / "telegram.json", data)
-    print(f"[完成] geoip/telegram.json，共 {len(cidrs)} 条")
-
-
-def update_geoip2_cn() -> None:
-    print("[生成] geoip/geoip2-cn.json")
-    content = http_get_text(GEOIP2_CN_URL)
-    cidrs = [line.strip() for line in content.splitlines() if line.strip() and not line.startswith("#")]
-    data = {
-        "version": 3,
-        "rules": [{"ip_cidr": cidrs}],
-    }
-    write_json(RULES_DIR / "geoip" / "geoip2-cn.json", data)
-    print(f"[完成] geoip/geoip2-cn.json，共 {len(cidrs)} 条")
+    write_json(RULES_DIR / "geoip" / f"{name}.json", data)
+    print(f"[完成] geoip/{name}.json，共 {len(cidrs)} 条")
 
 
 def update_adguard_filter_list() -> None:
@@ -292,8 +294,12 @@ def main() -> int:
     print_sing_box_version(bin_path)
 
     update_geosite_cn()
-    update_telegram_cidr()
-    update_geoip2_cn()
+    update_geoip("telegram", TELEGRAM_CIDR_URL)
+    update_geoip("geoip2-cn", GEOIP2_CN_URL)
+    update_geoip("geoip-cn-misakaio", GEOIP_CN_MISAKAIO_URL)
+    update_geoip("geoip-cn-metowolf", GEOIP_CN_METOWOLF_URL)
+    update_geoip("geoip-cn4", GEOIP_CN4_URL)
+    update_geoip("geoip-cn6", GEOIP_CN6_URL)
     update_adguard_filter_list()
     update_adguard_dns_filter()
     copy_static_rules()
